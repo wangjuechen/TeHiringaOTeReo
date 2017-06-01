@@ -195,7 +195,7 @@ public class Topic_playGame extends Activity implements View.OnDragListener {
             }
 
             case ("Level 44PlayGame"): {
-                //exerciseData = Level4Day5ExerciseData.quesAnsData;//TODO today has no exercise , need change image
+                //exerciseData = Level4Day5ExerciseData.quesAnsData;
                 //answers = Level4Day5ExerciseData.choiceData;
             }
         }

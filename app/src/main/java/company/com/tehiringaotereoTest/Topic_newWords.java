@@ -59,7 +59,7 @@ public class Topic_newWords extends Activity {
                 break;
             }
             case ("Level 14New Words"): {
-                //setNewWordsDataL1D5();//TODO today has no newwords topic, need modified image to not open
+                //setNewWordsDataL1D5();
                 break;
             }
             case ("Level 20New Words"): {
@@ -79,23 +79,23 @@ public class Topic_newWords extends Activity {
                 break;
             }
             case ("Level 30New Words"): {
-                //setNewWordsDataL3D1();//TODO today has no newwords topic, need modified image to not open
+                //setNewWordsDataL3D1();
                 break;
             }
             case ("Level 31New Words"): {
-                //setNewWordsDataL3D2();//TODO today has no newwords topic, need modified image to not open
+                //setNewWordsDataL3D2();
                 break;
             }
             case ("Level 32New Words"): {
-                //setNewWordsDataL3D3();//TODO today has no newwords topic, need modified image to not open
+                //setNewWordsDataL3D3();
                 break;
             }
             case ("Level 33New Words"): {
-                //setNewWordsDataL3D4();//TODO today has no newwords topic, need modified image to not open
+                //setNewWordsDataL3D4();
                 break;
             }
             case ("Level 34New Words"): {
-                //setNewWordsDataL3D5();//TODO today has no newwords topic, need modified image to not open
+                //setNewWordsDataL3D5();
                 break;
             }
             case ("Level 40New Words"): {
@@ -115,7 +115,7 @@ public class Topic_newWords extends Activity {
                 break;
             }
             case ("Level 44New Words"): {
-                //setNewWordsDataL4D5();//TODO today has no newwords topic, need modified image to not open
+                //setNewWordsDataL4D5();
                 break;
             }
         }
