@@ -1,0 +1,287 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="company.com.tehiringaotereoTest.GameFragment">
+
+    <LinearLayout
+        android:id="@+id/mainPage_header"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:background="@android:color/darker_gray"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="234dp"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="50dp"
+                android:text="@string/indexPage_title"
+                android:textColor="@color/footer_text_selector"
+                android:textSize="19sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="6dp"
+                android:text="@string/indexPage_subtitle"
+                android:textColor="@color/footer_text_selector" />
+
+            <TextView
+                android:id="@+id/tv_leftTitleExtended"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="12dp"
+                android:text="@string/indexPage_titleExtended"
+                android:textColor="@color/footer_text_selector"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/defaultpage_background_pic">
+
+            <TextView
+                android:id="@+id/tv_rightSlogan1"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="62dp"
+                android:lineSpacingMultiplier="1.2"
+                android:text="@string/indexPage_slogan1"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintRight_toRightOf="parent"/>
+
+            <TextView
+                android:id="@+id/tv_rightSlogan2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginStart="6dp"
+                android:layout_marginTop="6dp"
+                android:text="@string/indexPage_slogan2"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintLeft_toLeftOf="@id/tv_rightSlogan1"
+                app:layout_constraintTop_toBottomOf="@id/tv_rightSlogan1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="6dp"
+                android:text="@string/indexPage_slogan3"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintLeft_toLeftOf="@id/tv_rightSlogan2"
+                app:layout_constraintTop_toBottomOf="@id/tv_rightSlogan2" />
+
+        </android.support.constraint.ConstraintLayout>
+
+
+    </LinearLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/defaultpage_backgroundbottom_pic">
+
+
+        <ImageButton
+            android:id="@+id/btn_level1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="52dp"
+            android:layout_marginStart="52dp"
+            android:background="@null"
+            android:backgroundTint="@android:color/transparent"
+            android:outlineProvider="none"
+            android:src="@drawable/defaultpage_level1_icon"
+            app:layout_constraintBottom_toBottomOf="@+id/btn_level2"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/btn_level2"
+            app:layout_constraintVertical_bias="0.0"
+            tools:layout_conversion_absoluteHeight="34dp"
+            tools:layout_conversion_absoluteWidth="139dp"
+            tools:layout_conversion_absoluteX="43dp"
+            tools:layout_conversion_absoluteY="200dp" />
+
+        <TextView
+            android:id="@+id/tv_level1_levelTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:text="LEVEL 1"
+            android:textColor="@color/level1_title"
+            android:textStyle="bold"
+            app:layout_constraintLeft_toLeftOf="@+id/btn_level1"
+            app:layout_constraintRight_toRightOf="@+id/btn_level1"
+            app:layout_constraintTop_toBottomOf="@+id/btn_level1" />
+
+        <include
+            layout="@layout/layout_for_level1_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:layout_constraintLeft_toLeftOf="@+id/tv_level1_levelTitle"
+            app:layout_constraintRight_toRightOf="@+id/tv_level1_levelTitle"
+            app:layout_constraintTop_toBottomOf="@+id/tv_level1_levelTitle"/>
+
+        <ImageButton
+            android:id="@+id/btn_level2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="32dp"
+            android:layout_marginRight="52dp"
+            android:layout_marginTop="48dp"
+            android:background="@null"
+            android:backgroundTint="@android:color/transparent"
+            android:outlineProvider="none"
+            android:src="@drawable/defaultpage_level2locked_icon"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_conversion_absoluteHeight="32dp"
+            tools:layout_conversion_absoluteWidth="171dp"
+            tools:layout_conversion_absoluteX="170dp"
+            tools:layout_conversion_absoluteY="200dp" />
+
+        <TextView
+            android:id="@+id/tv_level2_levelTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:text="LEVEL 2"
+            android:textColor="@color/levels_title_locked"
+            android:textStyle="bold"
+            app:layout_constraintLeft_toLeftOf="@+id/btn_level2"
+            app:layout_constraintRight_toRightOf="@+id/btn_level2"
+            app:layout_constraintTop_toBottomOf="@+id/btn_level2" />
+
+        <include
+            layout="@layout/layout_for_level2_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:layout_constraintLeft_toLeftOf="@+id/tv_level2_levelTitle"
+            app:layout_constraintRight_toRightOf="@+id/tv_level2_levelTitle"
+            app:layout_constraintTop_toBottomOf="@+id/tv_level2_levelTitle">
+
+        </include>
+
+        <ImageButton
+            android:id="@+id/btn_level3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_marginStart="8dp"
+            android:background="@null"
+            android:backgroundTint="@android:color/transparent"
+            android:outlineProvider="none"
+            android:src="@drawable/defaultpage_level3locked_icon"
+            app:layout_constraintBottom_toBottomOf="@+id/btn_level4"
+            app:layout_constraintLeft_toLeftOf="@+id/btn_level1"
+            app:layout_constraintTop_toTopOf="@+id/btn_level4"
+            app:layout_constraintVertical_bias="0.0"
+            tools:layout_conversion_absoluteHeight="34dp"
+            tools:layout_conversion_absoluteWidth="201dp"
+            tools:layout_conversion_absoluteX="43dp"
+            tools:layout_conversion_absoluteY="374dp" />
+
+        <TextView
+            android:id="@+id/tv_level3_levelTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:text="LEVEL 3"
+            android:textColor="@color/levels_title_locked"
+            android:textStyle="bold"
+            app:layout_constraintLeft_toLeftOf="@+id/btn_level3"
+            app:layout_constraintRight_toRightOf="@+id/btn_level3"
+            app:layout_constraintTop_toBottomOf="@+id/btn_level3" />
+
+        <include
+            layout="@layout/layout_for_level3_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:layout_constraintLeft_toLeftOf="@+id/tv_level3_levelTitle"
+            app:layout_constraintRight_toRightOf="@+id/tv_level3_levelTitle"
+            app:layout_constraintTop_toBottomOf="@+id/tv_level3_levelTitle"
+            app:layout_constraintBottom_toBottomOf="@+id/ivWidgets_level4_levelProgress"
+            android:layout_marginBottom="0dp" />
+
+        <ImageButton
+            android:id="@+id/btn_level4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:backgroundTint="@android:color/transparent"
+            android:outlineProvider="none"
+            android:src="@drawable/defaultpage_level4locked_icon"
+            app:layout_constraintBottom_toTopOf="@+id/tv_level4_levelTitle"
+            app:layout_constraintRight_toRightOf="@+id/btn_level2" />
+
+        <TextView
+            android:id="@+id/tv_level4_levelTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:text="LEVEL 4"
+            android:textColor="@color/levels_title_locked"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/ivWidgets_level4_levelProgress"
+            app:layout_constraintLeft_toLeftOf="@+id/btn_level4"
+            app:layout_constraintRight_toRightOf="@+id/btn_level4" />
+
+        <include
+            android:id="@+id/ivWidgets_level4_levelProgress"
+            layout="@layout/layout_for_level4_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="48dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="@+id/tv_level4_levelTitle"
+            app:layout_constraintRight_toRightOf="@+id/tv_level4_levelTitle">
+        </include>
+
+
+    </android.support.constraint.ConstraintLayout>
+
+
+</LinearLayout>

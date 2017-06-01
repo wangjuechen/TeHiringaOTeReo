@@ -1,0 +1,2438 @@
+<resources>
+    <string name="app_name">Te Hiringa O Te Reo</string>
+
+    <string name="aboutText"><b>Te Hiringa o Te Reo</b> is a language \nresource designed specifically for those who are interested in learning basic Māori language but have limited opportunities to attend regular language classes. 
+    \n\nFrom this basic understanding of te reo Māori participants can then decide to enrol on a part/full time language programme.
+    </string>
+
+    <string name="guidelinesText">Before you begin this reo Māori (Māori language) course please become \nfamiliar with the content of the <b>Intro</b> section and revisit it often throughout the course.</string>
+    <string name="mihiTitle">Mihi</string>
+    <string name="mihiText">A greeting and welcome to you from the Ngāti Toa iwi, who are the tangata whenua of the Porirua area, where this course was developed.</string>
+
+    <string name="openingKarakiaTitle">Opening Karakia</string>>
+    <string name="openingKarakiaText">A prayer for the commencement of this course and lessons. It is recommended that you recite this prayer before you commence each lesson.</string>
+
+    <string name="waiataTitle">Waiata</string>
+    <string name="waiataText">Te Hiringa o Te Reo song for this course.</string>
+
+    <string name="closingKarakiaTitle">Closing Karakia</string>>
+    <string name="closingKarakiaText">A prayer for the completion of this course and each lesson.   When finished for the day, it is recommended that you recite this closing prayer.</string>
+
+    <string name="teWahangaTustahiTitle">Te Wāhanga Tuatahi</string>
+    <string name="teWahangaTustahiText">This is the \'first part\' of a four-part course each made up of five lessons (one lesson for each weekday).</string>
+
+    <string name="teWahangaTuaruaTitle">Te Wāhanga Tuarua</string>
+    <string name="tewahangaTuaruaText">This is the \'second part\' of a four-part course each made up of five lessons (one lesson for each weekday).</string>
+
+    <string name="teWahangaTuatoruTitle">Te Wāhanga Tuatoru</string>
+    <string name="teWahangaTuatoruText">This is the \'third part\' of a four-part course each made up of five lessons (one lesson for each weekday).</string>
+
+    <string name="teWahangaTuawhaTitle">Te Wāhanga Tuawha</string>
+    <string name="teWahangaTuawhaText">This is the \'last part\' of a four-part course each made up of five lessons (one lesson for each weekday).</string>
+
+    <string name="eachLessonTitle">Each lesson provides</string>
+
+    <string name="eachLessonText">Ngā Whāinga Akoranga (Learning Outcomes)
+\n
+    •  He Whakamārama(Explanation)
+  \n  •  Ngā Kupu Hou(New Words)
+    \n•  Whakarongo – Kōrero (Listen – Speak)
+    \n•  Hei Mahi (Exercises)
+
+
+    \n\nThis language course makes use of text and audio for learning and interactive exercises to complete each lesson stage.\n</string>
+
+    <string name="furtherStudyTitle">Further Study</string>
+    <string name="furtherStudyText">http://www.whitireia.ac.nz/AreasOfInterest/Te-Reo-Maori/Pages/TeReoMaori.aspx</string>
+
+
+    <string name="ExplanationTitle1">NGA WHAINGA AKORANGA</string>
+    <string name="ExplanationL1D1Part1">You will be able to greet one person,two people and more and you will learn how to reply to a greeting.</string>
+    <string name="ExplanationTitle2">HE WHAKAMARAMA</string>
+    <string name="ExplanationL1D1Part2">Greeting and finding out who someone is and where they are from are important in the interaction between people.
+        Who you are and where you come from is usually starting point of conversations amongst many Māori as they begin to establish the kinship
+        relationship between each other.Te Hiringa O Te Reo will begin by examining the patterns and structures that enable dialogue for this interaction. </string>
+    <string name="ExplanationTitle3">HE WHAKAMARAMA ANŌ</string>
+    <string name="ExplanationTitle4">HE KÖRERORERO</string>
+
+
+    <string name="ExplanationL1D1Part3">In te reo, there are 5 vowels. A E I O and U. These can be said as long sounds and short sounds. When written, the long sounding vowel can be written in two ways.\n
+                \n  \ \ 1.	aa \ \   \ \     ee   \ \   \ \   	ii   \ \ \ \    	oo    \ \  \ \  	uu\n
+                  2.	ā \ \  \ \  \ \   \ \ 	ē \ \  \ \  \ \  \ \ 	ī  \ \ \ \  \ \  \ \ 	ō  \  \ \ \  \ \  \ \ 	ū\n
+
+       \n Either as two vowels or with a macron (a small line over the top of the vowel that is long)\nThe idea is to be consistent with which one you choose to use and not to inter-mix the 2.\nWhen addressing people, names that are two syllables or less, use ‘e’ in front of the name.\nUsually the word koro is used to address an elderly man; kui is used to address an elderly woman, tama to address a young man or boy and hine to address a young woman or girl.\nMā includes another or others with the person greeted.
+    </string>
+
+
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_guidelines">Guidelines</string>
+
+    <string name="openKarakia">He hōnore, he korōria ki te atua, \n he maungarongo ki te whenua, \n he whakaaro pai ki\n ngā tāngata katoa. \n Hangāia e te atua he ngākau hou\n ki roto ki tēnā ki tēnā o mātou. \n Whakatōngia tō wairua tapu \n hei āwhina hei tohutohu i a mātou, \n hei ako hoki i ngā kupu \n ki roto i tēnei wānanga Māori. \n\n Āmine</string>
+    <string name="closeKarakia">Kia tau ki a tātou katoa\n Te atawhai o tō tātou ariki\n a Ihu Karaiti\n Me te aroha o te Atua\n Me te whiwhinga tahitanga\n Ki te wairua tapu\n Ake, ake, ake Āmine</string>
+    <string name="title_activity_day1_lesson1">Day1Lesson1Activity</string>
+
+
+    //HEI MAHI WHAKARONGO, KŌRERO HOKI
+    <string name="Day1_1d">Hei mihi ki te tangata kotahi</string>
+    <string name="Day1_1de">Greetings, one person</string>
+    <string name="Day1_1e">Tēnā koe</string>
+    <string name="Day1_1ee">Hello</string>
+    <string name="Day1_1f">Tēnā rā koe</string>
+    <string name="Day1_1fe">Hello, greetings to you</string>
+    <string name="Day1_1g">Tēnā koe Piripi</string>
+    <string name="Day1_1ge">Hello, Piripi</string>
+    <string name="Day1_1h">Tēnā koe e Ora</string>
+    <string name="Day1_1he">Hello Ora</string>
+    <string name="Day1_1i">Tēnā koe e Aroha    </string>
+    <string name="Day1_1ie">Hello Aroha</string>
+    <string name="Day1_1j">Tēnā koe e Ani</string>
+    <string name="Day1_1je">Hello Ani</string>
+    <string name="Day1_1k">Hei mihi ki te tokorua </string>
+    <string name="Day1_1ke">Greeting two people</string>
+    <string name="Day1_1l">Tēnā kōrua  </string>
+    <string name="Day1_1le">Hello, greetings to you(two)</string>
+    <string name="Day1_1m">Tēnā (rā) kōrua</string>
+    <string name="Day1_1me">Hello, greetings to you(all)</string>
+    <string name="Day1_1n">Tēnā kōrua, e hoa mā    </string>
+    <string name="Day1_1ne">Greetings to you, friends</string>
+    <string name="Day1_1o">Tēnā kōrua Piripi mā    </string>
+    <string name="Day1_1oe">Greetings to you Piripi and friend</string>
+    <string name="Day1_1p">Tēnā kōrua Piripi kōrua ko Ora</string>
+    <string name="Day1_1pe">Greetings to you Piripi and    Ora</string>
+    <string name="Day1_1q">Tēnā kōrua Aroha kōrua ko Tame</string>
+    <string name="Day1_1qe">Greetings to you Aroha and Tame</string>
+    <string name="Day1_1r">Hei mihi ki te tokomaha </string>
+    <string name="Day1_1re">Greeting more than two people</string>
+    <string name="Day1_1s">Tēnā koutou </string>
+    <string name="Day1_1se">Hello, greetings to you (3 or more people)</string>
+
+
+    //Ngā Kupu Hou (New Words)
+    <string name="Day1_2a">Tangata</string>
+    <string name="Day1_2ae">person/man</string>
+    <string name="Day1_2b">Tāngata </string>
+    <string name="Day1_2be">people</string>
+    <string name="Day1_2c">Wahine</string>
+    <string name="Day1_2ce">woman</string>
+    <string name="Day1_2d">Wāhine</string>
+    <string name="Day1_2de">women</string>
+    <string name="Day1_2f">Whakarongo</string>
+    <string name="Day1_2fe">listen</string>
+    <string name="Day1_2g">Kōrero</string>
+    <string name="Day1_2ge">speak</string>
+    <string name="Day1_2h">Mihi    </string>
+    <string name="Day1_2he">greet</string>
+    <string name="Day1_2i">Koe</string>
+    <string name="Day1_2ie">you</string>
+    <string name="Day1_2j">Kōrua</string>
+    <string name="Day1_2je">you two</string>
+    <string name="Day1_2k">Koutou</string>
+    <string name="Day1_2ke">you, more than 2</string>
+    <string name="Day1_2l">Whānau</string>
+    <string name="Day1_2le">family</string>
+    <string name="Day1_2m">Rangatira</string>
+    <string name="Day1_2me">chiefly person</string>
+    <string name="Day1_2n">Whanaunga</string>
+    <string name="Day1_2ne">relation</string>
+    <string name="Day1_2o">Tāne    </string>
+    <string name="Day1_2oe">man/men</string>
+    <string name="Day1_2p">Tokomaha</string>
+    <string name="Day1_2pe">many (people)</string>
+    <string name="Day1_2q">Tukuruatia</string>
+    <string name="Day1_2qe">repeat</string>
+    <string name="Day1_2r">Tokorua</string>
+    <string name="Day1_2re">two people</string>
+
+    //Day2 Data Explanation
+    <string name="ExplanationL1D2Part1">In this section you will learn how to ask a person how she/he/they is/are. You will also learn a little on how to use the pronouns, <b>tāua</b>, <b>tātou</b>, <b>māua</b>, <b>mātou</b>, <b>rāua</b>, <b>rātou</b> in a reply.</string>
+    <string name="ExplanationL1D2Part2">See the table below. Do not be too concerned with learning this off  by heart right now, it is only important to get the understanding for the reply to asking someone how they are, 1 person, 2 people, 3 or more – a group.</string>
+    <string name="ExplanationL1D2Part3">Tātaki/tauītanga\n\nTautahi tāpiti\n(first person, inclusive)\n\nTautahi tāporo\n(first person, exclusive)\n\nTaurua\n(second person)\n\nTakitahi\nSingular,1 person\n\nAhau/au\n(I/me)\n\nTakirua\nDual,2 people\n\nTāua(ahau + koe)\n we 2, you + I\n\nMāua(ahau + ia)\nwe 2, he/she + I\n\nTakitoru\nPlural, \n3 or more people\n\nTātou(ahau + koe + koe…)\nwe all, including\n\nMātou(ahau + ia + ia + ia…)\nwe all, but not you\n\n<b>Kei te pēhea koe?</b> – How are you?\n<b>Kei te pai ahau.</b> – I am fine.\n<b>Kei te pēhea kōrua?</b> – How are you 2?\n<b>Kei te pai māua.</b> – We are fine. (2)\n<b>Kei te pēhea koutou?</b> – How are you (more than 3)\n<b>Kei te pai mātou.</b> – We are fine. (2+)
+
+    </string>
+
+    <string name="ExplanationL1D2Part4">Te reo Māori is very specific when talking about people. As in the table above you see that there are different words for “we” inclusive and for “we” exclusive. All of this means is that when you use the words, māua, mātou, tāua and tātou, the listeners know who is being included in the conversation and who is not being included – (excluded).
+    </string>
+    <string name="ExplanationL1D2Part5"><b>Kei te pēhea koe e Tama?</b>\nHow are you Tama? </string>
+    <string name="ExplanationL1D2Part6"><b>Kei te pai ahau.</b>\nI’m fine thanks</string>
+    <string name="ExplanationL1D2Part7"><b>Kei te pēhea koe e Hoani?</b>\nHow are you Hoani?</string>
+    <string name="ExplanationL1D2Part8"><b>Kei te pai ahau</b>\nI am fine thanks</string>
+    <string name="ExplanationL1D2Part9"><b>Kei te pēhea kōrua?</b>\nHow are the two of you? (you 2)</string>
+    <string name="ExplanationL1D2Part10"><b>Kei te pai māua</b>\nWe are fine.\t(2 of us, not including Pia who is the speaker)</string>
+    <string name="ExplanationL1D2Part11"><b>Kei te pēhea koutou tamariki mā?</b>\nHow are you children?”</string>
+    <string name="ExplanationL1D2Part12"><b>Kei te pai mātou</b>\nWe are fine \t (more than 2 people,excluding the speaker who is Pāpā)” </string>
+    <string name="ExplanationL1D2Part13"><b>Kei te pai tāua nē Tama</b>\nWe are fine aren’t we Tama?\t(2 people including speaker, Pia)”</string>
+    <string name="ExplanationL1D2Part14"><b>Kei te pai tāua nē Hoani</b>\nWe are fine aren’t we Hoani?\t(2 people including speaker, Pia”</string>
+    <string name="ExplanationL1D2Part15"><b>Kei te pai tātou nē e tama mā</b>\nWe are fine aren’t we boys!\t(all three including speaker Pia)”</string>
+    <string name="ExplanationL1D2Title5">Pia</string>
+    <string name="ExplanationL1D2Title6">Tama</string>
+    <string name="ExplanationL1D2Title7">Pia</string>
+    <string name="ExplanationL1D2Title8">Hoani</string>
+    <string name="ExplanationL1D2Title9">Pia</string>
+    <string name="ExplanationL1D2Title10">Hoani and Tama</string>
+    <string name="ExplanationL1D2Title11">Papa</string>
+    <string name="ExplanationL1D2Title12">Hoani,Tama and Pia</string>
+    <string name="ExplanationL1D2Title13">Pia</string>
+    <string name="ExplanationL1D2Title14">Pia</string>
+    <string name="ExplanationL1D2Title15">Pia</string>
+
+
+    //Day2 Listen(Whakarongo (Listen))
+    <string name="Day2_4a"> Tēnā koe e Pita.    </string>
+    <string name="Day2_4ar"> Hello Pita. </string>
+    <string name="Day2_4b"> Tēnā koe e Tama.</string>
+    <string name="Day2_4br">Hello Tama! </string>
+    <string name="Day2_4c"> Tēnā kōrua e tama mā!</string>
+    <string name="Day2_4cr"> Hello boys! </string>
+    <string name="Day2_4d">Tēnā koe e Hera!</string>
+    <string name="Day2_4dr">Hello Hera!     </string>
+    <string name="Day2_4e"> Tēnā koutou e hoa mā!</string>
+    <string name="Day2_4er"> Hello friends! </string>
+    <string name="Day2_4f">Tēnā koe Kararaina!</string>
+    <string name="Day2_4fr">Hello Kararaina.</string>
+    <string name="Day2_4g"> Kei te pēhea koe e Tama?</string>
+    <string name="Day2_4gr"> How are you Tama?</string>
+    <string name="Day2_4h"> Kei te pai ahau e Pita!</string>
+    <string name="Day2_4hr">I am fine Pita.</string>
+    <string name="Day2_4i">Kei te pēhea kōrua e tama mā?</string>
+    <string name="Day2_4ir">How are you (2) boys?</string>
+    <string name="Day2_4j">Kei te pai māua! (2 people)</string>
+    <string name="Day2_4jr">We’re (excluding the person who asked) fine thanks!</string>
+    <string name="Day2_4k">Kei te pēhea koutou katoa e hoa mā?</string>
+    <string name="Day2_4kr">How are you all (excluding the person who is asking) friends?</string>
+    <string name="Day2_4l">Kei te pai mātou katoa Kararaina!</string>
+    <string name="Day2_4lr">We (excluding the speaker) are all fine thanks Kararaina!</string>
+    <string name="Day2_4m"> Kei te pēhea koe?</string>
+    <string name="Day2_4mr"> How are you?</string>
+    <string name="Day2_4n">Kei te pēhea kōrua?</string>
+    <string name="Day2_4nr">How are you 2?</string>
+    <string name="Day2_4o"> Kei te pēhea koutou?</string>
+    <string name="Day2_4or">How are you (more than 2)</string>
+    <string name="Day2_4p">Kei te pēhea koutou e hoa mā?</string>
+    <string name="Day2_4pr">How are you friends?</string>
+    <string name="Day2_4q">Kei te pēhea koutou e hine mā?</string>
+    <string name="Day2_4qr">How are you girls?</string>
+    <string name="Day2_4r">Kei te pēhea koutou e tama mā?</string>
+    <string name="Day2_4rr">How are you boys?</string>
+    <string name="Day2_4s">Kei te pēhea koutou katoa e hoa mā?</string>
+    <string name="Day2_4sr">How are you all friends?</string>
+
+    //HE WHAKAMĀRAMA
+    <string name="Day2_5a">We can also mihi to those who are leaving and when we leave, too there are phrases that we can say and use. </string>
+    <string name="Day2_5b">We can say goodbye in a number of ways.</string>
+    <string name="Day2_5c">Haere rā </string>
+    <string name="Day2_5cr">good bye, said by person who is staying. </string>
+    <string name="Day2_5d">E noho rā  </string>
+    <string name="Day2_5dr">said by person who is leaving.  </string>
+    <string name="Day2_5e"> Ka kite i a koe āpōpō!</string>
+    <string name="Day2_5er">See you tomorrow!  </string>
+    <string name="Day2_5fr">Yes, okay, we will see you again! </string>
+    <string name="Day2_5g">Hei āpōpō e hoa mā!  </string>
+    <string name="Day2_5gr">tomorrow friends! </string>
+    <string name="Day2_5h"> Noho ora mai e hoa mā! </string>
+    <string name="Day2_5hr">Stay and be well friends!  </string>
+
+    //HEI MAHI WHAKARONGO, KŌRERO HOKI Whakarongo – listen
+    <string name="Day2_5j">Haere rā e Tama. </string>
+    <string name="Day2_5jr">See you Tama (Tama is going)</string>
+    <string name="Day2_5k">E noho rā e Pita – </string>
+    <string name="Day2_5kr">See you Pita (Pita is staying)</string>
+    <string name="Day2_5l">Ka kite i a koe āpōpō e Tama! </string>
+    <string name="Day2_5lr">See you tomorrow  Tama!</string>
+    <string name="Day2_5m">Äe e Pita, ka kite anō i a koe! </string>
+    <string name="Day2_5mr">Yes Pita, we will see you again tomorrow!</string>
+    <string name="Day2_5n">Hei āpōpō e hoa mā </string>
+    <string name="Day2_5nr">Tomorrow friends!</string>
+    <string name="Day2_5o">Noho ora mai </string>
+    <string name="Day2_5or">stay and be well!</string>
+
+    //Day2 Data Topic(New Words)
+    <string name="NewWordsL1D2MaoriPart1">Kite</string>
+    <string name="NewWordsL1D2EngPart1">see</string>
+    <string name="NewWordsL1D2MaoriPart2">Āpōpō</string>
+    <string name="NewWordsL1D2EngPart2">Tomorrow</string>
+    <string name="NewWordsL1D2MaoriPart3">Anō</string>
+    <string name="NewWordsL1D2EngPart3">Again</string>
+    <string name="NewWordsL1D2MaoriPart4">Māua</string>
+    <string name="NewWordsL1D2EngPart4">We(2 people exclusive)</string>
+    <string name="NewWordsL1D2MaoriPart5">Tāua</string>
+    <string name="NewWordsL1D2EngPart5">We(2 people inclusive)</string>
+    <string name="NewWordsL1D2MaoriPart6">Kōrua </string>
+    <string name="NewWordsL1D2EngPart6">You 2</string>
+    <string name="NewWordsL1D2MaoriPart7">Tātou/Tātau</string>
+    <string name="NewWordsL1D2EngPart7">We(3 people inclusive)</string>
+    <string name="NewWordsL1D2MaoriPart8">Mātou/Mātau  </string>
+    <string name="NewWordsL1D2EngPart8">We(3people exclusive)</string>
+    <string name="NewWordsL1D2MaoriPart9">Rāua</string>
+    <string name="NewWordsL1D2EngPart9">They, them (2 people)</string>
+    <string name="NewWordsL1D2MaoriPart10">Rātou/Rātau </string>
+    <string name="NewWordsL1D2EngPart10">They, them (3 or more)</string>
+    <string name="NewWordsL1D2MaoriPart11">Kei te pēhea koe? </string>
+    <string name="NewWordsL1D2EngPart11">How are you? (1)</string>
+    <string name="NewWordsL1D2MaoriPart12">Kei te pai</string>
+    <string name="NewWordsL1D2EngPart12">Fine thanks!</string>
+    <string name="NewWordsL1D2MaoriPart13">Hine  </string>
+    <string name="NewWordsL1D2EngPart13">Girl/young woman</string>
+    <string name="NewWordsL1D2MaoriPart14">Tama</string>
+    <string name="NewWordsL1D2EngPart14">Boy/young man</string>
+    <string name="NewWordsL1D2MaoriPart15">Mā </string>
+    <string name="NewWordsL1D2EngPart15">And others</string>
+    <string name="NewWordsL1D2MaoriPart16">Katoa </string>
+    <string name="NewWordsL1D2EngPart16">All</string>
+    <string name="NewWordsL1D2MaoriPart17">Ngā</string>
+    <string name="NewWordsL1D2EngPart17">The – more than 1</string>
+    <string name="NewWordsL1D2MaoriPart18">Te  </string>
+    <string name="NewWordsL1D2EngPart18">The - 1</string>
+    <string name="NewWordsL1D2MaoriPart19">Tuatahi</string>
+    <string name="NewWordsL1D2EngPart19">The first</string>
+    <string name="NewWordsL1D2MaoriPart20">Wāhanga </string>
+    <string name="NewWordsL1D2EngPart20">Section</string>
+
+    <string name="NewWordsL1D3EngPart1"><b>Nō</b>  ---  From
+        \n\n<b>Kāinga</b>  ---  home
+        \n\n<b>Tōku </b> ---  my
+        \n\n<b>E noho anal </b> ---  living
+        \n\n<b>Hoa </b> ---  friend
+    </string>
+
+    <string name="NewWordsL1D3MaoriPart1">Listen few more words:</string>
+
+
+    //Day3 Data Topic(Explanation)
+    <string name="ExplanationL1D3Part1">In the next two days we will learn how to say who we are, where we are from and where we live.</string>
+    <string name="ExplanationL1D3Part2">Ko, is used here when saying who someone is or asking who someone is.Nō, is used here for saying where someone is from. See below.
+        \n\n<b> Ko Tama ahau.</b>\t\t --- \t\tI am Tama.
+        \n<b>Nō Porirua ahau.</b>\t\t --- \t\tI am from Porirua
+        \n<b>Ko Hēmi  ahau.</b>\t\t --- \t\tI am Hēmi.
+        \<b>nNō Paekākāriki ahau. </b>\t\t --- \t\t I am from Paekäkäriki.
+        \n<b>Ko Ani ahau.</b>\t\t --- \t\tI am Ani.
+        \n<b>Nō Ōtaki ahau. </b>\t\t --- \t\tI am from Ōtaki.
+        \n\n<b>To say where you live, we use the following-</b>
+        \n\n<b>Kei Porirua tōku kāinga or	Kei Porirua ahau e noho ana.</b>
+        \nMy home is in Porirua. or	Porirua is where I live. (I live in Porirua)
+        \n\n<b>Hei tauira:</b>
+
+        \n\n<b>Ko Tama ahau.</b>\t\t --- \t\tI ama Tama.
+        \n<b>Nō Porirua ahau.</b>\t\t --- \t\tI am from Porirua.
+        \n<b>Kei Ōtaki ahau e noho ana.</b>\t\t --- \t\tI live in Ōtaki.
+        \n\n<b>Ko Hēmi ahau. </b>\t\t --- \t\tI am Hēmi.
+        \n<b>Nō Paekākāriki ahau.</b>\t\t --- \t\t I am from Paekākāriki.
+        \n<b>Kei Porirua ahau e noho ana</b>\t\t --- \t\tI live in Porirua.
+        \n\n<b>Ko Ani ahau. </b>\t\t --- \t\tI am Ani.
+        \n<b>Ko Nō Ōtaki ahau.</b>\t\t --- \t\tI am from Ōtaki.
+        \n<b>Kei Te Whanganui-a-Tara tōku kāinga.</b> --- My home is in Wellington.(I live in Wellington</string>
+
+    <string name="ExplanationL1D3Part3"><b>Tēnā koe e hine!</b>
+        \n<b>Ko Hēmi ahau!</b>
+        \n<b>Nō Paekākāriki ahau.</b>
+        \n<b>Kei Porirua ahau e noho ana.</b>
+        \n\nHello young lady.
+        \nI am Hēmi.
+        \nI am from Paekākāriki.
+        \nI live in Porirua.</string>
+
+    <string name="ExplanationL1D3Part4"><b>Kia ora e Hēmi.</b>
+        \n<b>Ko Ani ahau.</b>
+        \n<b>Nō Ōtaki ahau.</b>
+        \n<b>Kei Te Whanganui-a-Tara tōku kāinga.</b>
+        \n\nHello Hēmi.
+        \nI am Ani.
+        \nI am from Ōtaki.
+        \nMy home is in Wellington.</string>
+    <string name="ExplanationL1D3Part5">To ask someone where they are from and where they live we can ask in the following way.
+        \n\nKia ora e hoa. --- Hello friend.
+        \nNō hea koe? --- Where are you from?
+        \nKei hea koe e noho ana? ---	Where do you live?
+
+        \n\nAsking someone where they are from and where they live can sometimes be two different things. As we have seen in the previous examples, Hēmi and Ani are not from where they are currently living. So do keep this in mind when someone asks you these questions or when you in turn ask the same.
+        Sometimes in addition, <b>Kia ora e hoa </b>at the end of a conversation can just be an acknowledgment meaning, Okay or Well then or even Thanks. See below.
+    </string>
+
+    <string name="ListenL1D3MaoriPart1"><b>Hera:</b>
+        \n<b>Kia ora e hoa! </b>
+        \n<b>Nō hea koe?</b>
+        \n<b>Kei hea koe e noho ana?</b>
+    </string>
+
+    <string name="ListenL1D3EngPart1">Hi there friend!
+        \nWhere are you from?
+        \nWhere do you live?
+    </string>
+
+    <string name="ListenL1D3MaoriPart2"><b>Pare:</b>
+        \n<b>Tēnā koe e hoa!</b>
+        \n<b>Nō Porirua ahau.</b>
+        \n<b>Kei Porirua ahau e noho ana.</b>
+    </string>
+
+    <string name="ListenL1D3EngPart2">Hello there friend!
+        \nI am from Porirua.
+        \nI live in Porirua.
+    </string>
+
+    <string name="ListenL1D3MaoriPart3"><b>Pare:</b>
+        \n<b>Nō hea koe?</b>
+        \n<b>Kei hea koe e noho ana?</b>
+    </string>
+
+    <string name="ListenL1D3EngPart3">Where are you from?
+    \nWhere do you live?</string>
+
+    <string name="ListenL1D3MaoriPart4"><b>Hera:</b>
+        \n<b>Nō Porirua ahau.</b>
+        \n<b>Kei Te Whanganui-ā-Tara ahau e noho ana.</b>
+    </string>
+
+    <string name="ListenL1D3EngPart4">I am from Porirua.
+            \nI live in Wellington.
+    </string>
+
+    <string name="ListenL1D3EngPart5"><b>Hera:</b>
+            \n<b>Kia ora e Pare.</b>
+            \n<b>Noho ora mai.</b>
+    </string>
+
+    <string name="ListenL1D3MaoriPart5">Well then,
+            \nStay and be well
+    </string>
+
+    <string name="ListenL1D3MaoriPart6"><b>Pare:</b>\n
+           <b> Kia ora e Hera.</b>
+    </string>
+
+    <string name="ListenL1D3EngPart6">Thanks.
+    </string>
+
+
+    //Day4 Data Topic(Explanation)
+
+    <string name="ExplanationL1D4Part1">In this session we will be looking at how to say who you are and where you are from without asking questions and without giving your name.
+Māori have a means of identification that is known as reciting your pepehā or using names of prominent landmarks to say where you are from and who your ancestors are.
+        \n\nThis is a good way to say who you are without actually using your name.</string>
+
+    <string name="ExplanationL1D4Part2">Here again we use <b>ko</b> to start our sentences as the words that follow <b>ko</b> are names of places, rivers, mountains as well as people:
+         \n\n<b>Ko Whitireia te maunga</b>
+             \n<b>Ko Parumoana te moana</b>
+             \n<b>Ko Takapūwāhia te marae</b>
+             \n<b>Ko Ngāti Toa te iwi</b>
+             \n<b>Ko Te Rauparahā te tangata</b>
+
+         \n\nWhitireia is the mountain
+             \nParumoana is the ocean
+             \nTakapūwāhia is the marae
+             \nNgāti Toa is the iwi / are the people
+             \nTe Rauparahā is the ancestor.
+
+        \n\nThere are other ways this can be said, for example including the canoe, and adding a greeting at the beginning or end with saying just <b>Tēnā koutou katoa!</b>
+</string>
+
+    //Topic(Listen and Speak)
+    <string name="ListenL1D4MaoriPart1"><b>Ko Maunganui te maunga</b>
+        \n<b>Ko Awaroa te awa</b>
+        \n<b>Ko Marae-ātea te marae</b>
+        \n<b>Ko Ngāti Whenua te hapū</b>
+        \n<b>Ko Te Ao Katoa te iwi</b>
+        \n<b>Ko Tānetoa te tipuna</b>
+    </string>
+
+    <string name="ListenL1D4EngPart1">
+        Maunganui is the mountain
+        \nAwaroa is the river
+        \nMarae-ātea is the marae
+        \nNgāti Whenua is the subtribe
+        \nTe Ao Katoa is the tribe
+        \nTānetoa is the ancestor
+    </string>
+
+    <string name="ListenL1D4MaoriPart2"><b>Ko Pukeiti te maunga</b>
+        \n<b>Ko Rotohōhonu te moana</b>
+        \n<b>Ko Whenua-wātea te marae</b>
+        \n<b>Ko Ngāti Tangata te hapü</b>
+        \n<b>Ko Ngāti Ira te iwi</b>
+        \n<b>Ko Wahine-toa te tipuna</b>
+    </string>
+
+    <string name="ListenL1D4EngPart2">
+        Pukeiti is the maunga
+        \nRotohōhonu is the ocean
+        \nWhenua-wātea is the marae
+        \nNgāti Tangata is the sub tribe
+        \nNgāti Ira is the tribe/are the people
+        \nWahine-toa is the ancestor
+    </string>
+
+    <string name="ListenL1D4MaoriPart3"><b>Ko Pāhū te maunga</b>
+        \n<b>Ko Mataku te roto</b>
+        \n<b>Ko Whenua-kore te marae</b>
+        \n<b>Ko Ngāti Wai te hapū</b>
+        \n<b>Ko Ngāti Moana te iwi</b>
+        \n<b>Ko Ngārara te tipuna</b>
+    </string>
+
+    <string name="ListenL1D4EngPart3">
+        Pahū is the mountain
+        \nMataku is the lake
+        \nWhenua-kore is the marae
+        \nNgāti Wai is the sub tribe
+        \nNgāti Moana is the tribe/are the people
+        \nNgārara is the ancestor
+    </string>
+
+    <string name="ListenL1D4EngPart4">Listen to these speakers saying their own Pepehā.</string>
+
+    <string name="ListenL1D5MaoriPart1">Ko te aha tēnei rā?</string>
+    <string name="ListenL1D5MaoriPart2">Ko te Rāhina.</string>
+    <string name="ListenL1D5MaoriPart3">Ko te aha tēnei rā?</string>
+    <string name="ListenL1D5MaoriPart4">Ko te Ratū.</string>
+    <string name="ListenL1D5MaoriPart5">Ko te aha tēnei rā?</string>
+    <string name="ListenL1D5MaoriPart6">Ko te Rāapa.</string>
+    <string name="ListenL1D5MaoriPart7">Ko te aha āpōpō?</string>
+    <string name="ListenL1D5MaoriPart8">Ko te Rāpare.</string>
+    <string name="ListenL1D5MaoriPart9">Ko te aha tēnei mārama?</string>
+    <string name="ListenL1D5MaoriPart10">Ko te Kohitātea.</string>
+    <string name="ListenL1D5MaoriPart11">Ko te aha tēnei mārama?</string>
+    <string name="ListenL1D5MaoriPart12">Ko te Mahuru tēnei mārama.</string>
+    <string name="ListenL1D5MaoriPart13">Ko te aha tēnei mārama?</string>
+    <string name="ListenL1D5MaoriPart14">Ko te Hongongoi tēnei mārama.</string>
+
+    <string name="ListenL1D5EngPart1">What is this day?</string>
+    <string name="ListenL1D5EngPart2">Monday</string>
+    <string name="ListenL1D5EngPart3">What is this day?</string>
+    <string name="ListenL1D5EngPart4">Tuesday</string>
+    <string name="ListenL1D5EngPart5">What is this day?</string>
+    <string name="ListenL1D5EngPart6">Wednesday</string>
+    <string name="ListenL1D5EngPart7">What is tomorrow?</string>
+    <string name="ListenL1D5EngPart8">Thursday.</string>
+    <string name="ListenL1D5EngPart9">What month is this ?</string>
+    <string name="ListenL1D5EngPart10">January.</string>
+    <string name="ListenL1D5EngPart11">What month is this ?</string>
+    <string name="ListenL1D5EngPart12">This month is September.</string>
+    <string name="ListenL1D5EngPart13">What month is this ?</string>
+    <string name="ListenL1D5EngPart14">This month is July.</string>
+
+
+    //Topic(New Words)
+    <string name="NewWordsL1D4EngPart1">
+        <b>Maunga </b> --   mountain
+        \n\n <b>Awa </b>-- river
+        \n\n <b>Moana</b>  --   ocean/sea/lake
+        \n\n <b>Tipuna </b> --   ancestor
+        \n\n<b>Hapū </b> --   subtribe
+        \n \n<b>Iwi</b> --   tribe
+        \n\n <b>Pepehā </b> --   proverbial saying
+        \n\n <b>Roto </b> --   lake</string>
+
+    <string name="NewWordsL1D4EngPart2">Take out your notebook and pen and listen and write few more words:</string>
+
+    <string name="NewWordsL1D4MaoriPart1">Ngā Kupu Hou</string>
+    <string name="NewWordsL1D4MaoriPart2">HE WHAKAMARAMA</string>
+
+    <string name="exerciseHeading">Whakamāorītia / whakapākehātia rānei ēnei kōrero\nTranslate into Māori/English</string>
+
+    //Day5 Data (Explanation)
+
+    <string name="ExplanationL1D5Part1">Today we shall look at something completely different to what we have been doing in the previous four days. The work will be based on the names of days of a week and the months of the year. We shall also learn how to ask and say what the day is, what the month is and what the year is.
+
+        \n\n<b>Ko te aha tēnei rā</b> – What is the day? or What day is this?
+        \n<b>Ko te aha tēnei mārama</b> – What is this month? or What month is this?
+        \n\n<b>Ko te aha</b> is answered with <b>Ko te</b> </string>
+
+    <string name="ExplanationL1D5Part2">There has been a move to shift the emphasis from Anglicised Māori to authentic Māori words.
+
+        \n\nThe Anglicised Māori words are words derived from English or sounds like English.
+        \nTūturu – Current Māori words that are used today</string>
+
+    //Week2day1 Data
+    <string name="ExplanationL2D1Part1">In this session, we will be finding out how to ask names, especially the members of a whānau and their respective positions within the whänau. Within the context of the whānau, we will also look at first person pronouns as well as definite and indefinite particle(s).</string>
+    <string name="ExplanationL2D1Part2">The first question is Ko wai or who.\n Answering the ‘ko wai’ question always begins with ‘Ko’ then the name.
+
+    \n\nE.g.\n<b>Ko wai?</b>
+         	\n<b>Ko (the name)</b>
+
+    \n\nFor now though we are just concentrating on asking:
+    \n<b>Who are you?</b>
+    \n<b>Who am I?</b>
+    \n<b>Who is (s)he?</b>
+
+    \n\nBelow are the first person pronouns
+    \n<b>Au or ahau 	(I/ me)</b>
+    \n<b>Koe 		(you - one person)</b>
+    \n<b>la 		(he/ she, him/her).</b>
+
+    \nN.B: <b>la</b> can apply to either a male or a female.
+    </string>
+    <string name="ExplanationL2D1Part3">In English an ‘s’ is added to the noun to show two or more (plural). In Māori ngā goes before the noun to show two or more.
+
+    \n\nE.g.\nTe tama 		= 	<b>The</b> son
+           \n<b>Ngā</b> tama  	= 	<b>The</b> sons
+
+    \n\n<b>He</b> is slightly different in that it could mean a person/thing or some people/things. There is an indefinite number.
+
+            \n<b>He</b> tama 		=  	<b>A</b> son
+            \n<b>He</b> tama 		=  	<b>Some</b> sons
+    </string>
+
+
+    <string name="ListenL2D1Title1">HE KŌRERORERO</string>
+    <string name="ListenL2D1Title2">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+
+    <string name="ListenL2D1Part1">Asking someone’s name can be said in two ways:
+
+    \n\n<b>Ko wai</b>koe 	or   	<b>Ko wai</b> tō ingoa?
+    \n<b>Who are</b>you 	or  <b>Who is</b> your name?
+
+
+    \n\n<b>Ko wai</b>  -  Who am
+        \n<b>au?</b>  -  I?
+
+    \n\n<b />Ko Whare  -  You are
+        \n<b>koe</b>  -  Whare
+
+    \n\n<b>Ko wai  -  koe?</b>
+    \nWho are  -  you?
+
+    \n\n<b>Ko Marama  -  au</b>
+    \nI am  -  Mārama
+
+    \n\n<b>Ko wai  -  ia?</b>
+    \nWho is  -  she/he?
+
+    \n\n<b>Ko Mere  -  ia</b>
+    \nShe is  -  Mere
+    </string>
+
+    <string name="ListenL2D1Part3">Me āta whakarongo koe ki te kaikōrero, ā, kātahi ka tukuruatia te kōrero.<b>Listen to the speaker and then repeat.</b> A muri ake nei he wā poto mōu hei whakaharatau te kōrero.<b>Afterwards, there will be a short pause to allow you to practice the question and the answer.</b>
+    \nThe dialogue below is between Whare and Mārama so you can assume the role of either person.
+    \n\n<b>Ko wai au?</b>
+    \nWho am I?
+    \n\n<b>Ko Mārama koe</b>
+    \nYou are Mārama
+
+    \n\n<b>Ko wai koe?</b>
+    \nWho are you?
+    \n\n<b>Ko Whare au</b>
+    \nI am Whare
+
+    \n\n<b>Ko wai ia?</b>
+    \nWho is he/she?
+    \n\n<b>Ko Mere ia</b>
+    \nShe is Mere
+</string>
+    <string name="ListenL2D1Part4"><b>Me āta whakarongo koe ki te kaikōrero, ā, kātahi ka tukuruatia.</b> Listen carefully to the speaker and then repeat.<b>A muri ake nei he wā poto mōu hei whakaharatau te kōrero.</b> Afterwards there will be a short pause to allow you to practice the kōrero.
+
+    \n\nTe <b>matua tipuna</b>
+    \nNgā <b>mātua tīpuna</b>
+    \nHe <b>matua tipuna</b>
+
+
+    \n\nTe <b>matua</b>
+    \nNgä <b>mätua</b>
+    \nHe <b>matua</b>
+
+
+    \n\nTe <b />mātāmua
+    \nNgā <b />mātāmua
+    \nHe <b />mātāmua
+
+
+    \n\n<b />Te tama
+    \n<b />Ngā tama
+    \n<b />He tama
+
+
+    \n\nTe <b>tuakana</b>
+    \nNgā <b>tuākana</b>
+    \nHe <b>tuakana</b>
+
+
+    \n\nTe <b>tungāne</b>
+    \nNgā <b>tungāne</b>
+    \nHe <b>tungāne</b>
+
+
+    \n\n<b>Te</b> pēpi
+    \n<b>Ngā</b> pēpi
+    \n<b>He</b> pēpi
+
+
+    \n\nTe <b>whaea</b>
+    \nNgā <b>whaea</b>
+    \nHe <b>whaea</b>
+
+
+    \n\n<b>Te</b> pōtiki
+    \n<b>Ngā</b> pōtiki
+    \n<b>He</b> pōtiki
+
+
+    \n\n<b>Te</b> tamāhine
+    \n<b>Ngā</b> tamāhine
+    \n<b>He</b> tamāhine
+
+
+
+    \n\nTe <b>tāina/tēina</b>
+    \nNgā <b>tāina/tēina</b>
+    \nHe <b>tāina/tēina</b>
+
+
+    \n\n<b>Te</b> tuahine
+    \n<b>Ngā</b> tuahine
+    \n<b>He</b> tuahine
+
+
+    \n\n<b>Te</b> mokopuna
+    \n<b>Ngā</b> mokopuna
+    \n<b>He</b> mokopuna
+    </string>
+    <string name="ListenL2D1Part2"><b>Te</b>\nThe
+
+    \n\nTe matua tīpuna
+    \nThe grand parent
+
+    \n\nTe  tama
+    \nThe  son
+
+    \n\nTe  whaea
+    \nThe mother
+
+    \n\nNgā
+    \nThe
+
+    \n\nNgā mātua
+    \nThe parents
+
+    \n\nNgā  tamāhine
+    \nThe  -  daughters
+
+    \n\nNgā	mokopuna
+    \nThe  grandchildren
+
+    \n\n<b>He</b>
+    \nA/some
+
+    \n\nHe matua tīpuna
+    \nA/some grandparent(s)
+
+    \n\nHe 	 tungāne
+    \nA/some brother(s)
+
+    \n\nHe	 tuāhine
+    \nA/some sister(s)
+    </string>
+
+    <string name="ListenL2D4MaoriPart1">Kei whea koe?</string>
+    <string name="ListenL2D4MaoriPart2">Kei whea ia?</string>
+    <string name="ListenL2D4MaoriPart3">Kei whea ahau?</string>
+    <string name="ListenL2D4MaoriPart4">Kei whea tō hoa?</string>
+    <string name="ListenL2D4MaoriPart5">Kei whea ona mātua tïpuna?</string>
+    <string name="ListenL2D4MaoriPart6">Kei whea toku kaiako?</string>
+    <string name="ListenL2D4MaoriPart7">Kei whea te whaea o Roimata?</string>
+    <string name="ListenL2D4MaoriPart8">Kei whea a Hēmi?</string>
+    <string name="ListenL2D4MaoriPart9">Kei whea ngā tama a Kata?</string>
+    <string name="ListenL2D4MaoriPart10">Kei whea ō mātua?</string>
+    <string name="ListenL2D4MaoriPart11">Kei whea ngā tama a Whare rāua ko Mārama?</string>
+    <string name="ListenL2D4MaoriPart12">Kei whea a Mere rātou ko Kata, ko Roimata?</string>
+    <string name="ListenL2D4MaoriPart13">Kei whea te tāne a Mārama?</string>
+    <string name="ListenL2D4MaoriPart14">Kei whea te wahine a Whare?</string>
+    <string name="ListenL2D4MaoriPart15">Kei whea te whaea o Roimata?</string>
+    <string name="ListenL2D4MaoriPart16">Kei whea te matua o te whānau? </string>
+    <string name="ListenL2D4MaoriPart17">Kei whea te whaea o Mere rāua ko Kata? </string>
+    <string name="ListenL2D4MaoriPart18">Kei whea te matua o Kata?</string>
+    <string name="ListenL2D4MaoriPart19">Kei whea te whaea o ngā tama?</string>
+    <string name="ListenL2D4MaoriPart20">Kei whea te matua o Kata räua ko Hōri?</string>
+    <string name="ListenL2D4MaoriPart21">Kei whea te mātāmua a Whare rāua ko Mārama?</string>
+    <string name="ListenL2D4MaoriPart22">Kei whea te pōtiki a Whare rāua ko Mārama?</string>
+    <string name="ListenL2D4MaoriPart23">Kei whea ngā tamariki a Whare rāua ko Mārama?</string>
+
+    <string name="ListenL2D4EngPart1">Where are you?</string>
+    <string name="ListenL2D4EngPart2">Where is she/he?</string>
+    <string name="ListenL2D4EngPart3">Where am I?</string>
+    <string name="ListenL2D4EngPart4">Where is your friend?</string>
+    <string name="ListenL2D4EngPart5">Where are his/her grandparents?</string>
+    <string name="ListenL2D4EngPart6">Where is my teacher?</string>
+    <string name="ListenL2D4EngPart7">Where is Roimata’s mother?</string>
+    <string name="ListenL2D4EngPart8">Where is Hēmi?</string>
+    <string name="ListenL2D4EngPart9">Where are Kata’s sons?</string>
+    <string name="ListenL2D4EngPart10">Where are your parents?</string>
+    <string name="ListenL2D4EngPart11">Where are the sons of Whare and Mārama?</string>
+    <string name="ListenL2D4EngPart12">Where are Mere, Kata and Roimata?</string>
+    <string name="ListenL2D4EngPart13">Where is the husband of Mārama?</string>
+    <string name="ListenL2D4EngPart14">Where is the wife of Whare?</string>
+    <string name="ListenL2D4EngPart15">Kei konā te whaea o Roimata</string>
+    <string name="ListenL2D4EngPart16">Kei konei te matua o te whānau</string>
+    <string name="ListenL2D4EngPart17">Kei konā te whaea o Mere rāua ko Kata</string>
+    <string name="ListenL2D4EngPart18">Kei korā te matua o Kata</string>
+    <string name="ListenL2D4EngPart19">Kei konei te whaea o ngā tama.</string>
+    <string name="ListenL2D4EngPart20">Kei korā te matua o Kata rāua ko Hōri</string>
+    <string name="ListenL2D4EngPart21">Where is the first born child of Whare and Mārama?</string>
+    <string name="ListenL2D4EngPart22">Where is the last born child of Whare and Mārama?</string>
+    <string name="ListenL2D4EngPart23">Where are the children of Whare and Mārama?</string>
+
+
+    <string name="NewWordsL2D1EngPart1">\n<b />Anei ētahi kupu hou me nga whakamārama.  Here are some new words and their meanings.
+    \n\n<b>Matua tipuna Koro</b>
+    \nGrandparent
+
+    \n\n<b>Matua tipuna Kui</b>
+    \nGrandparent
+
+    \n\n<b>Matua/Pāpā</b>
+    \nFather/Parent
+
+    \n\n<b>Whaea/Māmā</b>
+    \nMother
+
+    \n\n<b>Mātāmua</b>
+    \nOldest child
+
+    \n\n<b>Pōtiki</b>
+    \nYoungest child
+
+    \n\n<b>Tama</b>
+    \nSon
+
+    \n\n<b>Tamāhine</b>
+    \nDaughter
+
+    \n\n<b>Tuakana</b>
+    \nOlder sibling of same sex
+
+    \n\n<b>Tāina/tēina</b>
+    \nYounger sibling of same sex
+
+    \n\n<b>Tungāne</b>
+    \nBrother to a sister
+
+    \n\n<b>Tuahine</b>
+    \nSister to a brother
+
+    \n\n<b>Pēpi</b>
+    \nBaby
+
+    \n\n<b>Mokopuna</b>
+    \nGrandchild
+    </string>
+
+    <string name="NewWordsL2D1EngPart2">You may have noticed that some vowels have a <b>tohutō</b> (macron or a dash) above them. This tells the reader that the length of the vowel sound is twice that of a vowel without the tohutō. Imagine that the vowel is written twice. That approximate sound should be heard.
+
+    \n\n<b>Ā	= 	AA</b>
+    \n<b>Ē 	= 	EE</b>
+    \n<b>Ī  	= 	II</b>
+    \n<b>Ō 	= 	OO</b>
+    \n<b>Ū 	= 	UU</b>\n\n
+
+    The letter <b>\'T\'</b> is pronounced like a soft <b>\'D\'</b>. The tip of your tongue is placed just behind your front top teeth on the roof of your mouth.\n
+
+
+    Me āta whakarongo koe ki te kaikōrero, ā, tukuruatia te kōrero a muri ake nei.<b>Listen carefully to the speaker and then repeat.</b>  A muri ake nei he wä poto mōu hei whakaharatau te kōrero. <b>Afterwards there will be a short pause to allow you to practice the körero.</b>
+
+
+    \n\nTama
+    \nTipuna
+    \nTuakana
+    \nMātāmua
+    \nTāina
+    \nMatua
+    \nTungāne
+    \nTe
+    \nTuahine
+    \nPōtiki
+    \nTēnā
+    \nTuatahi
+    \nTātou
+    \nTuhituhi
+    \nTaku
+    \nTana
+    \nTō
+    \nTonga
+    \nTai
+    \nĀta
+    \nTio
+    \nTau
+    \nTapu
+    \nAtua\n</string>
+
+    <string name="NewWordsL2D1MaoriPart1">Ngā Kupu Hou</string>
+    <string name="NewWordsL2D1MaoriPart2">HE WHAKAMARAMA</string>
+
+
+    <string name="ExplanationL2D2Part1">In this session we will still be finding out who the members of your whänau are and their respective positions within the whānau. Within this context we will be using the a and o categories to show the relationships between whānau members.</string>
+    <string name="ExplanationL2D2Part2">The question now is, who is the matua/tama/tāina etc of any other given member of the whānau. Seniority will determine the use of an a or an o.
+        \n\nNgā mātua tīpuna \t\t = \t\t\t Grandparents
+        \n\nNgā mātua \t\t\t\t\t\t\t = \t\t\t Parents
+        \n\nNgā tamariki \t\t\t\t\t\t = \t\t\t Children
+        \n\nNgā mokopuna \t\t\t\t = \t\t\t The first born to the last born
+        \n\nTuakana/tāina \t\t\t\t\t = \t\t\t The older sibling to younger sibling
+        \n\nN.B: If you are stating a person in a senior position first, then you would use the o, however, if you are stating a person of lesser status first, then you would use the a.
+        \n\nWhen showing a relationship between two or more people of equal status within the whänau then those who are married usually use a and those who are not use o.
+        \n\n<b>Ko Whare te tane a Marama.  Ko Marama te wahine a Whare. \nKo Whati raua ko Hori nga tungane o nga tamahine. \nKo Mere ratou ko Kata, ko Roimata nga tuahine o nga tama.</b></string>
+
+
+    <string name="ListenL2D2EngPart1">Study the dialogue below and the use of <b>a</b> and <b>o</b>.</string>
+    <string name="ListenL2D2EngPart2">Where is the father of the children</string>
+    <string name="ListenL2D2EngPart3">Where is the father of the sons</string>
+    <string name="ListenL2D2EngPart4">Where is the father of the daughters </string>
+    <string name="ListenL2D2EngPart5">Where is the father of the family</string>
+    <string name="ListenL2D2EngPart6">Mārama is the mother of children</string>
+    <string name="ListenL2D2EngPart7">Mārama is the mother of sons</string>
+    <string name="ListenL2D2EngPart8">Mārama is the mother of daughters</string>
+    <string name="ListenL2D2EngPart9">Mārama is the mother of family</string>
+    <string name="ListenL2D2EngPart10">Mere, Kata and Roimata are the sisters of the sons</string>
+    <string name="ListenL2D2EngPart11">Whati and Hōri are the brothers of the daughters</string>
+
+    <string name="ListenL2D2EngPart12">Study the dialogue below and the use of <b>a</b></string>
+    <string name="ListenL2D2EngPart13">Mere is the first born child of Whare and Mārama </string>
+    <string name="ListenL2D2EngPart14">Roimata is the last born child of Whare and Mārama</string>
+    <string name="ListenL2D2EngPart15">Whati and Hōri are the sons of Whare rāua Māram</string>
+    <string name="ListenL2D2EngPart16">Mere, Kata and Roimata are the daughters of Whare and Mārama</string>
+    <string name="ListenL2D2EngPart17">Mere, Kata, Roimata, Whati and Hōri are the children of Whare and Mārama</string>
+    <string name="ListenL2D2EngPart18">Whare is the husband of Mārama</string>
+    <string name="ListenL2D2EngPart19">Mārama is the wife of Whare</string>
+
+    <string name="ListenL2D2EngPart20">Me āta whakarongo koe ki te kaikōrero, ā, kātahi ka tukuruatia. Listen carefully to the speaker and repeat afterwards. Ā muri ake nei he wā poto hei whakaharatau i te kōrero māu. There will be a short pause to allow you to practice the kōrero.  Me mahi takirua ēnei rārangi korero.  Practice in pairs the following sentences.</string>
+    <string name="ListenL2D2EngPart21">Ko Mārama te whaea o Roimata</string>
+    <string name="ListenL2D2EngPart22">Ko Mārama te whaea o Mere rāua ko Kata</string>
+    <string name="ListenL2D2EngPart23">Ko Mārama te whaea o ngā tama</string>
+    <string name="ListenL2D2EngPart24">Ko Whare te matua o te whanau</string>
+    <string name="ListenL2D2EngPart25">Ko Whare te matua o Kata</string>
+    <string name="ListenL2D2EngPart26">Ko Whare te matua o Kata rāua ko Hōri</string>
+    <string name="ListenL2D2EngPart27">Ko Whati räua ko Hōri ngā  tama a Mārama</string>
+    <string name="ListenL2D2EngPart28">Ko Mere rātou ko Kata, ko Roimata ngā tamāhine a Whare</string>
+    <string name="ListenL2D2EngPart29">Ko Mere te mātāmua a Whare  rāua ko Mārama</string>
+    <string name="ListenL2D2EngPart30">Ko Roimata te pōtiki a Whare rāua ko Mārama</string>
+    <string name="ListenL2D2EngPart31">Ko Whare te tāne a Mārama</string>
+
+
+    <string name="ListenL2D2EngPart32">During this session we will step outside of our own whānau and look at how we can use the singular and plural possessive terms that allow us to say (t)aku = my, (t)ō = your and (t)ana = his/hers. For the plural possessive terms, we simply drop the t. Once again we have two more neutral gender terms in Tana and ana which can mean either his or hers singular and plural.</string>
+    <string name="ListenL2D2EngPart33">Ko Hera tōku  ingoa</string>
+    <string name="ListenL2D2EngPart34">Ko Juan tōna ingoa</string>
+    <string name="ListenL2D2EngPart35">Ko Hera rāua ko Bill ōku mātua</string>
+    <string name="ListenL2D2EngPart36">Ko Juan rāua ko Tina ōna mātua</string>
+
+
+    <string name="ListenL2D2MaoriPart1">O category</string>
+    <string name="ListenL2D2MaoriPart2">Ko Whare te matua o ngā tamariki</string>
+    <string name="ListenL2D2MaoriPart3">Ko Whare te matua o ngā tama</string>
+    <string name="ListenL2D2MaoriPart4">Whare te matua o ngā tamāhine</string>
+    <string name="ListenL2D2MaoriPart5">Ko Whare te matua o te whānau  </string>
+    <string name="ListenL2D2MaoriPart6">Ko Mārama te whaea o ngā tamariki</string>
+    <string name="ListenL2D2MaoriPart7">Ko Mārama te whaea o ngā tama</string>
+    <string name="ListenL2D2MaoriPart8">Ko Mārama te whaea o ngā tamāhine</string>
+    <string name="ListenL2D2MaoriPart9">Ko Mārama te whaea o te whānau"</string>
+    <string name="ListenL2D2MaoriPart10">Ko Mere rātou ko Kata, ko Roimata ngā tuahine o ngā tama</string>
+    <string name="ListenL2D2MaoriPart11">Ko Whati rāua ko Hōri ngā tungāne o ngā tamāhine </string>
+
+    <string name="ListenL2D2MaoriPart12">A category</string>
+    <string name="ListenL2D2MaoriPart13">Ko Mere te mātāmua a Whare rāua ko Mārama</string>
+    <string name="ListenL2D2MaoriPart14">Ko Roimata te pōtiki a Whare rāua ko Mārama</string>
+    <string name="ListenL2D2MaoriPart15">Ko Whati rāua ko Hōri ngā tama a Whare rāua ko Mārama</string>
+    <string name="ListenL2D2MaoriPart16">Ko Mere rātou ko Kata, ko Roimata ngā tamāhine a Whare rāua ko Mārama </string>
+    <string name="ListenL2D2MaoriPart17">Ko Mere rātou ko Kata, ko Roimata, ko Whati, ko Hōri ngā tamariki a Whare rāua ko Mārama </string>
+    <string name="ListenL2D2MaoriPart18">Ko Whare te tāne a Mārama</string>
+    <string name="ListenL2D2MaoriPart19">Ko Mārama te wahine a Whare</string>
+
+    <string name="ListenL2D2MaoriPart20">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+    <string name="ListenL2D2MaoriPart21">Ko wai te whaea o Roimata</string>
+    <string name="ListenL2D2MaoriPart22">Ko wai te whaea o Mere rāua ko Kata?</string>
+    <string name="ListenL2D2MaoriPart23">Ko wai te whaea o ngā tama?</string>
+    <string name="ListenL2D2MaoriPart24">Ko wai te matua o te whānau?</string>
+    <string name="ListenL2D2MaoriPart25">Ko wai te matua o Kata?</string>
+    <string name="ListenL2D2MaoriPart26">Ko wai te matua o Kata rāua ko Hōri?</string>
+    <string name="ListenL2D2MaoriPart27">Ko wai ngā tama a Mārama?</string>
+    <string name="ListenL2D2MaoriPart28">Ko wai ngā tamāhine a Whare?</string>
+    <string name="ListenL2D2MaoriPart29">Ko wai te mātāmua a Whare rāua ko Mārama?</string>
+    <string name="ListenL2D2MaoriPart30">Ko wai te tāne a Mārama?</string>
+    <string name="ListenL2D2MaoriPart31">Ko wai te wahine a Whare?</string>
+
+    <string name="ListenL2D2MaoriPart32">HE WHAKAMĀRAMA</string>
+    <string name="ListenL2D2MaoriPart33">Ko wai tō ingoa?</string>
+    <string name="ListenL2D2MaoriPart34">Ko wai tōna ingoa?</string>
+    <string name="ListenL2D2MaoriPart35">Ko wai ō mātua?</string>
+    <string name="ListenL2D2MaoriPart36">Ko wai ōna mātua?</string>
+
+
+    <string name="NewWordsL2D2MaoriPart1">Koe</string>
+    <string name="NewWordsL2D2MaoriPart2">Au/ahau</string>
+    <string name="NewWordsL2D2MaoriPart3">Ia</string>
+    <string name="NewWordsL2D2MaoriPart4">Taku</string>
+    <string name="NewWordsL2D2MaoriPart5">Tō</string>
+    <string name="NewWordsL2D2MaoriPart6">Tana</string>
+    <string name="NewWordsL2D2MaoriPart7">Āku</string>
+    <string name="NewWordsL2D2MaoriPart8">Ō</string>
+    <string name="NewWordsL2D2MaoriPart9">Āna</string>
+    <string name="NewWordsL2D2MaoriPart10">Te</string>
+    <string name="NewWordsL2D2MaoriPart11">Ngā</string>
+    <string name="NewWordsL2D2MaoriPart12">He</string>
+    <string name="NewWordsL2D2MaoriPart13">Ko wai</string>
+    <string name="NewWordsL2D2MaoriPart14">Rāua</string>
+    <string name="NewWordsL2D2MaoriPart15">Rātou</string>
+
+    <string name="NewWordsL2D2EngPart1">You</string>
+    <string name="NewWordsL2D2EngPart2">I, me, myself</string>
+    <string name="NewWordsL2D2EngPart3">S/he, him, her</string>
+    <string name="NewWordsL2D2EngPart4">My, mine</string>
+    <string name="NewWordsL2D2EngPart5">Your(s)</string>
+    <string name="NewWordsL2D2EngPart6">His/hers</string>
+    <string name="NewWordsL2D2EngPart7">My (plural)</string>
+    <string name="NewWordsL2D2EngPart8">Your(s) (plural)</string>
+    <string name="NewWordsL2D2EngPart9">His/hers (plural)</string>
+    <string name="NewWordsL2D2EngPart10">The</string>
+    <string name="NewWordsL2D2EngPart11">The (plural)</string>
+    <string name="NewWordsL2D2EngPart12">A/some</string>
+    <string name="NewWordsL2D2EngPart13">Who?</string>
+    <string name="NewWordsL2D2EngPart14">Those two</string>
+    <string name="NewWordsL2D2EngPart15">Those three or more</string>
+
+
+    //Week2Day3 Data
+    <string name="ExplanationL2D3Part1">By the end of this session, you should be able to ask where people are from. We will use pepeha (Iwi proverbs) as a starting point of identification for you to use later. We will then find out how to ask where people are living now.
+</string>
+    <string name="ExplanationL2D3Part2"><b>Anei te pepeha o Ngāti Toa.</b> Pepeha are proverbs that describe Iwi origins. If one were to recite this pepeha it would be safe to say that their tribal origins are from the greater Porirua area or the area where Te Rauparahā once ruled supreme. See if you can find the pepeha that is from your Iwi.
+
+        \n\n<b>Ko Tainui te waka</b>
+        \n<b>Ko Whitireia te maunga</b>
+        \n<b>Ko Parirua te moana</b>
+        \n<b>Ko Takapūwāhia te marae</b>
+        \n<b>Ko Ngāti Toa te iwi</b>
+        \n<b>Ko Te Rauparahā te tangata</b>
+
+        \n\nA much simpler way is to say nō Porirua au (I am from Porirua).
+
+        \n\nN.B: Some iwi say whea while others say hea. This is only a dialectal difference. Whichever one you choose, be rest assured that you will be understood.  Nō whea is quite specific in that it is asking where you trace your family origin. Many urban Māori currently may never have been to their whānau marae or urupā (family cemetery) but regardless they will still maintain their iwi is that of their parents.
+        \n\nObviously, the place where people live may vary to where the person is from so this needs to be made clear. This will allow us to continue our conversation.
+
+        \n\nThe literal meaning of Kei whea tō kāinga?     is      Where is your home?
+        \nThe intended meaning is closer to
+        \nWhere do you live?
+        \nWhere are you staying? or
+        \nWhere have you made your home?
+
+        \n\nAlthough the structure might seem a little strange, try to think in terms of the entire question and answer rather than word for word.
+
+        \nOnce you are able to ask where someone lives you will probably realise that the same structure can be used to ask where something is. However, when we are talking about a person or people we must always place an a before their name. If it is an object then Te, Ngā or He, must precede it. If the object has been named after a person then it is regarded as such.
+        \nKei whea a Hēmi?
+         \nKei whea te whānau ?
+        \nKei whea ngā tama?
+
+        \n\nKei Taupō a Hēmi.
+        \nKei Tawa te whānau.
+        \nKei Taupō ngā tama.</string>
+
+    <string name="ListenL2D3EngPart1"><b>Nō (w)hea?</b> = 		From where? or where from?
+        \nAnswering the <b>nō whea</b> question is like answering all the other pätai (questions) in that they begin with the same word, in this case <b>Nō</b>.
+        \n\n<b>Nō whea?</b> 	= 	From where?
+        \n<b>Nō Porirua</b> 	= 	From Porirua
+        </string>
+    <string name="ListenL2D3EngPart2"><b />Kei (w)hea tō 	kāinga  ināianei?
+
+        \nWhere is your 	home now?
+
+        \nAnswering the <b>Kei whea</b> question is like all the other pätai (questions) in that they begin with the same word, in this case <b>Kei</b>.
+
+        \n\n<b>Kei whea</b> 	= 	At where?
+        \n<b>Kei Porirua</b> 	= 	At Porirua
+
+        \nKei Porirua tōku kāinga ināianei.
+
+        \n\n<b>At Porirua my</b>At Porirua my	 home is now 		or
+        \nI’m living in Porirua now</string>
+
+    <string name="ListenL2D3EngPart3">1.	Whakarongo		\n2.	Kōrero</string>
+
+    <string name="ListenL2D3EngPart4">Where are you from?</string>
+    <string name="ListenL2D3EngPart5">Where is she/he from?</string>
+    <string name="ListenL2D3EngPart6">Where am I from?</string>
+    <string name="ListenL2D3EngPart7">Where is your friend from?</string>
+    <string name="ListenL2D3EngPart8">Where are his/her grandparents from?</string>
+    <string name="ListenL2D3EngPart9">Where is my teacher from?</string>
+    <string name="ListenL2D3EngPart10">Where is Roimata\'s mother from?</string>
+    <string name="ListenL2D3EngPart11">Where is Rime from?</string>
+    <string name="ListenL2D3EngPart12">Where am Kata\'s sons from?</string>
+    <string name="ListenL2D3EngPart13">Where are your parents trots?</string>
+
+    <string name="ListenL2D3EngPart14">Where is the first-born child of Whare and Mārama from?</string>
+    <string name="ListenL2D3EngPart15">Where is the last born child of Whare and Mārama from?</string>
+    <string name="ListenL2D3EngPart16">Where are the sons of Whare and Mārama from?</string>
+    <string name="ListenL2D3EngPart17">Where are Mere, Kata and Roimata from?</string>
+    <string name="ListenL2D3EngPart18">Where are the children of Whare and Mārama from?</string>
+    <string name="ListenL2D3EngPart19">Where is the husband of Mārama from?</string>
+    <string name="ListenL2D3EngPart20">Where is the wife of Whare from?</string>
+
+    <string name="ListenL2D3EngPart21">Nō Tauranga te whaea o Roimata</string>
+    <string name="ListenL2D3EngPart22">Nō Pōneke te matua te whōnau</string>
+    <string name="ListenL2D3EngPart23">Nō Te Kauwhata te whaea o Mere rāua Ko Kata</string>
+    <string name="ListenL2D3EngPart24">Nō Waikanae te matua o Kata</string>
+    <string name="ListenL2D3EngPart25">Nō Tūrangi te whaea o ngā tama</string>
+    <string name="ListenL2D3EngPart26">Nō Tūhoe te matua o Kata rāua ko Hōri</string>
+    <string name="ListenL2D3EngPart27">Nō Te Tairāwhiti ngā tama a Mārama</string>
+
+    <string name="ListenL2D3EngPart28">Listen to the speaker and repeat afterwards. There will be a short pause to allow you to practice the questions.</string>
+    <string name="ListenL2D3EngPart29">Where do you live now?</string>
+    <string name="ListenL2D3EngPart30">Where am I staying now?</string>
+    <string name="ListenL2D3EngPart31">Where is she/he living now?</string>
+    <string name="ListenL2D3EngPart32">Where does your friend live?</string>
+    <string name="ListenL2D3EngPart33">Where is your new home?</string>
+    <string name="ListenL2D3EngPart34">Where is my new home?</string>
+    <string name="ListenL2D3EngPart35">Where is her/his new home?</string>
+    <string name="ListenL2D3EngPart36">Where is your friend\'s new home?</string>
+
+
+    <string name="ListenL2D3MaoriPart1">HE KŌRERORERO</string>
+    <string name="ListenL2D3MaoriPart2">HE KŌRERORERO</string>
+    <string name="ListenL2D3MaoriPart3">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+
+    <string name="ListenL2D3MaoriPart4">Nō whea koe?</string>
+    <string name="ListenL2D3MaoriPart5">Nō whea la?</string>
+    <string name="ListenL2D3MaoriPart6">Nō whea ahau?</string>
+    <string name="ListenL2D3MaoriPart7">Nō whea tō hoa?</string>
+    <string name="ListenL2D3MaoriPart8">Nō whea ana mātua tipuna?</string>
+    <string name="ListenL2D3MaoriPart9">Nō whea taku kaiako? </string>
+    <string name="ListenL2D3MaoriPart10">Nō whea te whaea a Roimata?</string>
+    <string name="ListenL2D3MaoriPart11">Nō whea a Himl?</string>
+    <string name="ListenL2D3MaoriPart12">Nō whea ngā tama a Kata?</string>
+    <string name="ListenL2D3MaoriPart13">Nō whea ō mātua?</string>
+
+    <string name="ListenL2D3MaoriPart14">Nō whea te mātāmua a Whare rāua Mārama?</string>
+    <string name="ListenL2D3MaoriPart15">Nō whea te pōtiki a Whare rāua ko Mārama?</string>
+    <string name="ListenL2D3MaoriPart16">Nō whea ngā tama a Whare rāua ko Mārama?</string>
+    <string name="ListenL2D3MaoriPart17">Nō whea a Mere rātou ko Kata, ko Roimata?</string>
+    <string name="ListenL2D3MaoriPart18">Nō whea ngā tamariki a Whare rāua ko Mārama?</string>
+    <string name="ListenL2D3MaoriPart19">Nō whea te tāne a Mārama?</string>
+    <string name="ListenL2D3MaoriPart20">Nō whea te wahine a Whare?</string>
+
+    <string name="ListenL2D3MaoriPart21">Nō whea te whaea o Roimata?</string>
+    <string name="ListenL2D3MaoriPart22">Nō whea te matua o te whānau?</string>
+    <string name="ListenL2D3MaoriPart23">Nō whea te whaea o Mere rāua ko Kata?</string>
+    <string name="ListenL2D3MaoriPart24">Nō whea te matua o Kata?</string>
+    <string name="ListenL2D3MaoriPart25">Nō whea te whaea o ngā tama?</string>
+    <string name="ListenL2D3MaoriPart26">Nō whea te matua o Kata rūua ko Hōri?</string>
+    <string name="ListenL2D3MaoriPart27">Nō whea ngā tama a Mārama?</string>
+
+    <string name="ListenL2D3MaoriPart28">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+    <string name="ListenL2D3MaoriPart29">Kei whea kō kāinga ināianei?</string>
+    <string name="ListenL2D3MaoriPart30">Kei whea tōku kāinga ināianei?</string>
+    <string name="ListenL2D3MaoriPart31">Kei whea tōna kāinga ināianei?</string>
+    <string name="ListenL2D3MaoriPart32">Kei whea te kāinga o tō hoa?</string>
+    <string name="ListenL2D3MaoriPart33">Kei whea tō kāinga hou?</string>
+    <string name="ListenL2D3MaoriPart34">Kei whea tōku kāinga hou?</string>
+    <string name="ListenL2D3MaoriPart35">Kei whea tana kāinga hou?</string>
+    <string name="ListenL2D3MaoriPart36">Kei whea te kāinga hou o tō hoa?</string>
+
+
+    <string name="NewWordsL2D3EngPart1">Anei ētahi kupu hou me ngā whakamārama.  Here are some new words and their meanings.</string>
+    <string name="NewWordsL2D3EngPart2">Where from?</string>
+    <string name="NewWordsL2D3EngPart3">Teacher</string>
+    <string name="NewWordsL2D3EngPart4">Carefully</string>
+    <string name="NewWordsL2D3EngPart5">Listen</string>
+    <string name="NewWordsL2D3EngPart6">Speaker</string>
+    <string name="NewWordsL2D3EngPart7">Repeat</string>
+    <string name="NewWordsL2D3EngPart8">Practice</string>
+    <string name="NewWordsL2D3EngPart9">The Ng often causes problems but this can be overcome if you push the back of your tongue towards the roof of your mouth as opposed to the front of your tongue. Most of us have little difficulty in saying words like;
+
+        \n\nBang
+        \nWrangle
+        \nSinger
+        \nKung Fu
+        \nSong
+        \nKing Kong
+
+        \n\nLongitude
+        \nPing Pong
+        \nRinger
+        \nBanger
+        \nRang
+        \nTang
+
+        \n\nIf you say these English words slowly you will notice that the back of your tongue automatically rises up to the back of the roof of your mouth.  And so it is with Māori pronunciation.
+
+        \nAnei ētahi kupu Māori hei whakaharatau.  (Here are Māori words to practice).
+
+        \n\nNgāmotu
+        \nNgongotahā
+        \nNgāūranga
+        \nNgoikore
+        \nNgāti
+        \nNgutu
+
+        \n\nNgenge	Ngira
+        \nNgongoro
+        \nNgana
+        \nNgūnguru
+        \nNgapō</string>
+
+    <string name="NewWordsL2D3MaoriPart1">Ngā Kupu Hou</string>
+    <string name="NewWordsL2D3MaoriPart2">Nō whea</string>
+    <string name="NewWordsL2D3MaoriPart3">Kaiako</string>
+    <string name="NewWordsL2D3MaoriPart4">Āta</string>
+    <string name="NewWordsL2D3MaoriPart5">Whakarongo</string>
+    <string name="NewWordsL2D3MaoriPart6">Kaikōrero</string>
+    <string name="NewWordsL2D3MaoriPart7">Tukuruatia</string>
+    <string name="NewWordsL2D3MaoriPart8">Whakaharatau</string>
+    <string name="NewWordsL2D3MaoriPart9">TE WHAKAHUA TIKA I TE REO</string>
+
+
+    //Week2Day4
+    <string name="ExplanationL2D4Part1">In this session, we will learn how to use locatives. Within this context, we will stay with the whānau members and use them to show location. This will allow us to say Konei = by me (the speaker), Konā = by you (the listener) and Korā = by neither the speaker or the listener (over yonder).
+
+        \n\nHe tauira  (some examples)
+        \n<b>Kei konei 		taku 		tama</b>
+        \nHere (by me) 		my 		son
+
+        \n\n<b>Kei konā 		tō 		tamāhine</b>
+        \nThere (by you) 	your 		daughter
+
+        \n\n<b>Kei korā		tana		mokopuna</b>
+        \nThere (over yonder)	his/her 		grandchild
+    </string>
+
+    <string name="ExplanationL2D4Part2">In the previous session, we looked at how to ask where. The way we answer has not changed but now the locations have. These sentence patterns are useful during telephone conversations but are not exclusively.
+
+            \n\n<b>Kei whea</b> = Where?
+            \n<b>Kei whea</b>= Where?
+            \n<b>Kei whea</b>  =Where?
+            \n<b>Kei konei</b>  = Here (by me)
+            \n<b>Kei konā</b> = There (by you)
+            \n<b>Kei korā</b>  =There (over yonder)
+    </string>
+    Answering the ‘Kei whea’ question is like all the other pātai (questions) in that they begin
+    with the same word, in this case Kei.
+
+
+    <string name="NewWordsL2D4EngPart1">Where?</string>
+    <string name="NewWordsL2D4EngPart2">Where from?</string>
+    <string name="NewWordsL2D4EngPart3">Here by me</string>
+    <string name="NewWordsL2D4EngPart4">There by you</string>
+    <string name="NewWordsL2D4EngPart5">There over youder</string>
+    <string name="NewWordsL2D4EngPart6">On</string>
+    <string name="NewWordsL2D4EngPart7">Under</string>
+    <string name="NewWordsL2D4EngPart8">In</string>
+    <string name="NewWordsL2D4EngPart9">Out</string>
+    <string name="NewWordsL2D4EngPart10">Side</string>
+    <string name="NewWordsL2D4EngPart11">Between</string>
+    <string name="NewWordsL2D4EngPart12">Front</string>
+    <string name="NewWordsL2D4EngPart13">Back</string>
+
+    <string name="NewWordsL2D4MaoriPart1">Kei whea</string>
+    <string name="NewWordsL2D4MaoriPart2">Nō whea</string>
+    <string name="NewWordsL2D4MaoriPart3">Konei</string>
+    <string name="NewWordsL2D4MaoriPart4">Konā</string>
+    <string name="NewWordsL2D4MaoriPart5">Korā</string>
+    <string name="NewWordsL2D4MaoriPart6">Runga</string>
+    <string name="NewWordsL2D4MaoriPart7">Raro</string>
+    <string name="NewWordsL2D4MaoriPart8">Roto</string>
+    <string name="NewWordsL2D4MaoriPart9">Waho</string>
+    <string name="NewWordsL2D4MaoriPart10">Te taha</string>
+    <string name="NewWordsL2D4MaoriPart11">Waenganui</string>
+    <string name="NewWordsL2D4MaoriPart12">Mua</string>
+    <string name="NewWordsL2D4MaoriPart13">Muri</string>
+
+
+    //Level 3//
+    <string name="ExplanationL3D1Part1">During this session you will learn to ask what things are in broad terms using He aha as well
+        as the definitive terms for this, that, and that over yonder (tēnei, tēnā, tērā).
+        For every “Mahi Whakarongo Körero hoki” section, listen to the dialogue and then practise using the sentences on your own.
+    </string>
+
+    <string name="ExplanationL3D1Part2">He simply means a or some. Aha means what but can’t be said on its own. So when we place the two together as a question we get:\n
+        He aha? =  A or some what? or just what?\n
+
+        He aha tēnei? = What is this? (By the speaker)\n
+
+        He aha tēnā? = What is that? (By the listener)\n
+
+        He aha tērā? = What is that (over yonder)?\n
+    </string>
+
+    <string name="ListenL3D1EngPart1">
+        \n<b> He aha?</b>  \t What? \n<b>He āporo </b>	\t An apple or some apples\n
+        \n<b>He aha?</b> \t What? \n<b>He pouaka</b>  \t	A box or some boxes\n
+        \n<b>He aha?</b> \t What? \n<b> He türu </b>\t	A chair or some chairs\n
+        \n<b>He aha?</b> \t What?\n<b> He pikitia </b>	\t A picture or some pictures\n\n
+        <b>He aha?</b>\t What?\n <b> He waka </b>	\t A car or some cars\n
+        \n<b>He aha?</b> \t  What? \n<b>He rakau</b> \t A tree or some trees \n
+
+    </string>
+
+    <string name="ListenL3D1EngPart2">
+        <b>He aha tēnei?</b>\t (What is this? (By the speaker))\n
+        <b>He aha tēnei?</b>\t What is this?\n
+        <b>He āporo tēnā</b>\t That is an apple\n\n
+        <b>He aha tēnei?</b>\t What is this?\n
+        <b>He pouaka tēnā</b>\t That is a box\n\n
+        <b>He aha tēnei?</b>\t What is this?\n
+        <b>He pene tēnā</b>\t That is a pen\n
+    </string>
+
+    <string name="ListenL3D1EngPart3">
+        <b>He aha tēnā? </b>\t (What is that? (By the listener))
+        <b>He aha tēnā?</b> \t What is that?\n
+        <b>He pukapuka tēnei</b> \t This is a book\n\n
+        <b>He aha tēnā?</b> \t What is that?\n
+        <b>He tēpu tēnei</b> \t This is a table\n\n
+        <b>He aha tēnā?</b> \t What is that?\n
+        <b>He pene rākau tēnei </b> \t This is a pencil\n\n
+    </string>
+
+    <string name="ListenL3D1EngPart4">
+        <b>He aha tērā? ?</b>\t (What is that? (Over yonder))
+        <b>He aha tērā?</b> \t What is that? (Over yonder)\n
+        <b>He hōiho tērā</b> \t That is a horse  (Over yonder)\n\n
+        <b>He aha tērā?</b> \t What is that? (Over yonder)\n
+        <b>He poaka tērā</b> \t That is a pig   (Over yonder)\n\n
+        <b>He aha tērā?</b> \t What is that? (Over yonder)\n
+        <b>He rākau tērā</b> \t That is a tree   (Over yonder)\n\n
+    </string>
+
+    <string name="ListenL3D1EngPart5">
+     <b>Tēnā koe, e hoa</b> \t--\t Greetings my friend
+    </string>
+    <string name="ListenL3D1EngPart6">
+        <b>Kia ora Piripi</b>\t --\t Hello Piripi
+    </string>
+    <string name="ListenL3D1EngPart7">
+         <b>E Hine, he aha tenā?</b>\t --\t Hine, what is that? (Near Hine)
+   </string>
+    <string name="ListenL3D1EngPart8">
+        <b>He pene tēnei</b>\t --\t  This is a pen (near Hine)
+    </string>
+    <string name="ListenL3D1EngPart9">
+        <b>E Hine, he aha tēnei?</b>\t --\t  Hine, what is this? (Near Piripi)
+    </string>
+    <string name="ListenL3D1EngPart10">
+    <b>He āporo tēnā</b> \t --\t  That is an apple (near Piripi)
+    </string>
+    <string name="ListenL3D1EngPart11">
+        <b>E Hine, he aha tērā?</b> \t --\t  Hine, what is that? (Over yonder)
+    </string>
+    <string name="ListenL3D1EngPart12">
+        <b>He hōiho tērā</b> \t --\t  That is a horse (over yonder)
+    </string>
+    <string name="ListenL3D1EngPart13">
+        <b>Mōrena Tama!</b> \t --\t  Good morning Tama!
+    </string>
+    <string name="ListenL3D1EngPart14">
+     <b>Kia Ora Pare</b>   \t --\t  Hello Pare
+    </string>
+    <string name="ListenL3D1EngPart15">
+        <b>E Tama, he aha tēnā?</b> \t --\t  Tama, what is that? (Near Tama)
+    </string>
+    <string name="ListenL3D1EngPart16">
+        <b>He pukapuka tēnei</b> \t --\t  This is a book (near Tama)
+    </string>
+    <string name="ListenL3D1EngPart17">
+        <b>E Tama, he aha tēnei?</b> \t --\t  Tama, what is this? (Near Pare)
+    </string>
+    <string name="ListenL3D1EngPart18">
+        <b>He tēpu tēnā</b>\t --\t  That is a table (near Pare)
+    </string>
+    <string name="ListenL3D1EngPart19">
+        <b>E Hine, he aha tērā?</b> \t --\t  Hine, what is that? (Over yonder)
+    </string>
+    <string name="ListenL3D1EngPart20">
+        <b>He waka tērā</b> \t --\t  That is a car (over yonder)
+    </string>
+
+    <string name="ListenL3D1MaoriTitle1">HE KŌRERORERO</string>
+    <string name="ListenL3D1MaoriTitle2">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+    <string name="ListenL3D1MaoriTitle3">Piripi</string>
+    <string name="ListenL3D1MaoriTitle4">Hine</string>
+
+    // day2
+
+    <string name="ExplanationL3D2Part1">
+        During this session you should be able to continue asking what things are but the definitive terms change to plural – i.e. these, those, and those over yonder. \n
+        For every <b>“Mahi Whakarongo, Korero Hoki” </b>section, listen to the dialogue and then practise using the sentences on your own.
+    </string>
+
+    <string name="ExplanationL3D2Part2">
+        During the previous lesson, we looked at <b> tēnei, tēnā and tērā</b>. This session will concentrate on the plurals of tēnei, tēnā and tērā. The plurals are <b> ēnei </b>(these near speaker),<b> ēnā </b>(those near listener) and <b>ērā </b>(those over yonder).\n
+        <b>He aha ēnei?	</b> 	\t= 	What are these? (Near speaker)  \n
+        <b>He aha ēnā? </b>		\t= 	What are those? (Near listener)\n
+        <b>He aha ērā? 	</b> 	\t= 	What are those? (Over yonder)\n
+
+    </string>
+
+    <string name="ListenL3D2EngPart1">
+        <b>He aha ēnei? </b>(What are these? (Near speaker))\n\n
+        <b>He āporo ēnā</b>\t --\t Those are apples \n
+        <b>He aha ēnei?</b>\t --\t What are these? (Near speaker)\n
+        <b>He pouaka ēnā</b>\t --\t Those are boxes \n
+        <b>He aha ēnei?</b>\t --\t What are these? (Near speaker)\n
+        <b>He pene ēnā</b>\t --\t Those are pens(Near speaker)\n
+    </string>
+
+    <string name="ListenL3D2EngPart2">
+        <b>He aha ēnā?</b>\t --\t What are those? (Near listener)\n\n
+        <b>He pukapuka ēnei </b>\t --\t These are books \n
+        <b>He aha ēnā?</b>\t --\t What are those? (Near listener)\n
+        <b>He tēpu ēnei </b>\t --\t These are tables\n
+        <b>He aha ēnā?</b>\t --\t What are those? (Near listener)\n
+        <b>He pene rākau ēnei </b>\t --\t These are pens)\n
+    </string>
+    <string name="ListenL3D2EngPart3">
+        <b>He aha ērā?</b>\t --\t What are those? (Over yonder)\n\n
+        <b>He hōiho ērā </b>\t --\t Those are horses\n
+        <b>He aha ērā?</b>\t --\tWhat are those? (Over yonder)\n
+        <b>He poaka ērā</b>\t --\t Those are pigs\n
+        <b>He aha ērā?</b>\t --\t What are those? (Over yonder)\n
+        <b>He rākau ērā </b>\t --\t Those are trees\n
+    </string>
+
+    <string name="ListenL3D2EngPart4">
+        <b>Ata mārie, Roimata</b> \t --\t Good morning Roimata \n
+    </string>
+    <string name="ListenL3D2EngPart5">
+        <b>Kia Ora Rāwiri</b> \t --\t Hello Rāwiri \n
+    </string>
+    <string name="ListenL3D2EngPart6">
+        <b>He aha ēnei?</b> \t --\t What are these? (Near Rāwiri) \n
+    </string>
+    <string name="ListenL3D2EngPart7">
+        <b>He pukapuka ēnā</b> \t --\t Those are books (near Rāwiri) \n
+    </string>
+    <string name="ListenL3D2EngPart8">
+        <b>Rāwiri, he aha ēnā? </b> \t --\t What are those? (Near Rāwiri) \n
+    </string>
+    <string name="ListenL3D2EngPart9">
+        <b>He rīpene ēnei</b> \t --\t These are cassette tapes  \n
+    </string>
+    <string name="ListenL3D2EngPart10">
+        <b>Roimata, he aha ērā?</b> \t --\t Roimata, what are those? \n
+    </string>
+    <string name="ListenL3D2EngPart11">
+        <b>He kuri ērā</b> \t --\t Those are dogs (over yonder) \n
+    </string>
+    <string name="ListenL3D2EngPart12">
+        <b>E Huia, he aha ēnei?</b> \t --\t Huia, what are these? (Near Tīmoti)\n
+    </string>
+    <string name="ListenL3D2EngPart13">
+        <b>E Tīmoti, he pene hitau ēnā!!!</b> \t --\t Gee Tīmoti, those are felt tip pens!!! (Near Tīmoti) \n
+    </string>
+    <string name="ListenL3D2EngPart14">
+        <b>Tīmoti, he aha ēnā?</b> \t --\t Tīmoti, what are those? \n
+    </string>
+    <string name="ListenL3D2EngPart15">
+        <b>He hū ēnei!!!</b> \t --\t These are shoes (near Tīmoti) \n
+    </string>
+    <string name="ListenL3D2EngPart16">
+        <b>Tīmoti, he aha ērā?</b> \t --\t Tīmoti, what are those? \n
+    </string>
+    <string name="ListenL3D2EngPart17">
+        <b>He kau ērā</b> \t --\t Those are cows (over yonder) \n
+    </string>
+
+    <string name="ListenL3D2MaoriPart1">HE KŌRERORERO</string>
+    <string name="ListenL3D2MaoriPart2">Rāwiri</string>
+    <string name="ListenL3D2MaoriPart3">Roimata</string>
+    <string name="ListenL3D2MaoriPart4">Timoti</string>
+    <string name="ListenL3D2MaoriPart5">Huia</string>
+
+    // Day3
+    <string name="ExplanationL3D3Part1">
+        By the end of this session you should be able to ask where things are and use locatives
+        to show where. For every <b>“Mahi Whakarongo, Kōrero hoki”</b>section, listen to the dialogue
+        and then practise using the sentences on your own.\n
+        <b>Kei hea? </b> \t --\t Where\n
+         <b>Roto </b> \t --\t Inside\n
+        <b>Runga </b> \t --\t Above, on top\n
+         <b>Raro  </b> \t --\t Underneath, below\n
+         <b>Waho  </b> \t --\t Outside \n
+         <b>Taha  </b> \t --\t Side\n
+        <b>Matau  </b> \t --\t Right (side) \n
+         <b>Maui   </b> \t --\t Left\n
+    </string>
+    <string name="ExplanationL3D3Part2">
+        During this session you will be learning how to ask where something is,
+        <b>kei hea</b>, and give an answer to that question by giving the objects location.
+    </string>
+
+    <string name="ListenL3D3EngPart1">
+        <b>Kei hea te āporo?</b> \t --\t Where is the apple?\n
+        <b>Kei hea te tamaiti?</b> \t --\tWhere is the child?\n
+        <b>Kei hea te hōiho?</b> \t --\t Where is the horse?\n
+        <b>Kei hea te pukapuka?</b> \t --\t Where is the book?\n
+        <b>Kei hea te waka?</b> \t --\t Where is the car?\n
+        <b>Kei hea te waea?</b> \t --\tWhere is the telephone?\n
+    </string>
+
+    <string name="ListenL3D3EngPart2">
+        <b>Kei hea te āporo?</b>   \t --\t Where is the apple?\n
+        <b>Kei runga</b>   \t --\t On top\n\n
+        <b>Kei hea te pouaka?</b>   \t --\t Where is the box?\n
+        <b>Kei raro</b>   \t --\t Underneath\n\n
+        <b>Kei hea te pene?</b>   \t --\t Where is the pen??\n
+        <b>Kei roto</b>   \t --\t Inside\n\n
+        <b>Kei hea te pepa?</b>   \t --\t Where is the paper?\n
+        <b>Kei waho</b>   \t --\t Outside \n\n\n
+        <b>Kei hea te āporo?</b>   \t --\t Where is the apple?\n
+        <b>Kei runga te āporo</b>   \t --\t The apple is on top\n\n
+        <b>Kei hea te pouaka?</b>   \t --\t Where is the box?\n
+        <b>Kei raro te pouaka</b>   \t --\t The box is underneath\n\n
+        <b>Kei hea te pene?</b>   \t --\t Where is the pen?\n
+        <b>Kei roto te pene</b>   \t --\t The pen is inside\n\n
+        <b>Kei hea te pepa?</b>   \t --\t Where is the paper?\n
+        <b>Kei waho te pepa</b>   \t --\t The paper is outside\n\n
+        <b>Kei hea te āporo?</b>   \t --\t Where is the apple? \n
+        <b>Kei runga te āporo i te tēpu</b>   \t --\t The apple is on the table \n\n
+        <b>Kei hea te pouaka?</b>   \t --\t Where is the box? \n
+        <b>Kei raro te pouaka i te tēpu</b>   \t --\t The box is under table\n\n
+        <b>Kei hea te pene?</b>   \t --\tWhere is the pen?\n
+        <b>Kei roto te pene i te pouaka</b>   \t --\t The pen is inside the box \n\n
+        <b>Kei hea te pepa?</b>   \t --\tWhere is the paper?\n
+        <b>Kei waho te pepa i te whare </b>   \t --\t The paper is outside the house \n\n\n
+    </string>
+
+    <string name="ListenL3D3EngPart3">
+        <b>Runga</b>\n
+        <b>Kei hea te manu?</b>  \t --\t  Where is the bird?\n
+        <b>Kei runga te manu i te tuanui</b>  \t --\t The bird is on the roof\n\n
+        <b>Kei te hea te pene rākau?</b>  \t --\t  Where is the pencil?\n
+        <b>Kei runga te pene rākau i te tūru</b>  \t --\t  The pencil is on the chair\n\n
+        <b>Kei hea te ripene?</b>  \t --\t  Where is the cassette tape?\n
+        <b>Kei runga te ripene i te irirangi</b>  \t --\t  The cassette tape is on top of the radio\n\n
+    </string>
+
+    <string name="ListenL3D3EngPart4">
+        <b>Raro</b>\n
+        <b>Kei hea te āporo?</b>  \t --\t  Where is the apple?\n
+        <b>Kei raro te āporo i te tēpu</b>  \t --\t The apple is under the table\n\n
+        <b>Kei te hea te pene rākau?</b>  \t --\t  Where is the pencil?\n
+        <b>Kei raro te pene rākau i te tūru</b>  \t --\t  The pencil is beneath the chair\n\n
+        <b>Kei hea te ripene?</b>  \t --\t  Where is the cassette tape?\n
+        <b>Kei raro te ripene i te irirangi</b>  \t --\t  The cassette tape is underneath the radio\n\n
+    </string>
+
+    <string name="ListenL3D3EngPart5">
+        <b>Roto</b>\n
+        <b>Kei hea te āporo?</b>  \t --\t  Where is the apple?\n
+        <b>Kei roto te āporo i te pouaka</b>  \t --\t The apple is inside the box\n\n
+        <b>Kei te hea te pene rākau?</b>  \t --\t  Where is the pencil?\n
+        <b>Kei roto te pene rākau i te pouaka</b>  \t --\t  The pencil is inside the box\n\n
+        <b>Kei hea te ripene?</b>  \t --\t  Where is the cassette tape?\n
+        <b>Kei roto te ripene i te irirangi</b>  \t --\t  The cassette tape is inside the radio\n\n
+    </string>
+
+    <string name="ListenL3D3EngPart6">
+        <b>Waho</b>\n
+        <b>Kei hea te āporo?</b>  \t --\t  Where is the apple?\n
+        <b>Kei waho te aporo i te pouaka</b>  \t --\t The apple is outside the box\n\n
+        <b>Kei te hea te pene rākau?</b>  \t --\t  Where is the pencil?\n
+        <b>Kei waho te pene rakau i te pouaka</b>  \t --\t  The pencil is outside the box\n\n
+        <b>Kei hea te ripene?</b>  \t --\t  Where is the cassette tape?\n
+        <b>Kei waho te ripene i te irirangi</b>  \t --\t  The cassette tape is outside the radio\n\n
+   </string>
+
+    <string name="ListenL3D3EngPart7">
+        <b>Renata, kei hea te niupepa?</b>\t --\t  Renata, where is the newspaper?</string>
+    <string name="ListenL3D3EngPart8">
+        <b>Kei runga te niupepa I te tēpu</b>\t --\t The newspaper is on the table</string>
+    <string name="ListenL3D3EngPart9">
+        <b>E Rewi, kei hea tōku tī hāte?</b>\t --\t  Where is my t-shirt?</string>
+    <string name="ListenL3D3EngPart10">
+        <b>Kei roto tōu tī hāte i te whare</b> t --\t  Your t-shirt is inside the house</string>
+    <string name="ListenL3D3EngPart11">
+        <b>Roimata, kei hea te wai reka?</b>\t --\t  Roimata, where is the fizzy drink?</string>
+    <string name="ListenL3D3EngPart12">
+        <b>Kei roto te wai reka i te pouaka mātao</b>\t --\t The fizzy drink is in the refrigerator.</string>
+    <string name="ListenL3D3EngPart13">
+        <b>E Rangi, kei hea te pouaka whakaata? </b>\t --\t Rangi, where abouts is the television?</string>
+    <string name="ListenL3D3EngPart14">
+        <b>Kei roto te pouaka whakaata i te whare </b>\t --\t The television is inside the house</string>
+    <string name="ListenL3D3EngPart15">
+        <b>Kara, kei hea te waea? </b>\t --\tKara, where is the telephone?</string>
+    <string name="ListenL3D3EngPart16">
+        <b>Kei roto te waea i te whare </b>\t --\t The television is inside the house</string>
+    <string name="ListenL3D3EngPart17">
+        <b>Rīhari, kei hea taku pene?</b>\t --\tRīhari. Where is my pen?</string>
+    <string name="ListenL3D3EngPart18">
+        <b>Kei raro tau pene i te waka</b>\t --\t Your pen is underneath the car</string>
+
+    <string name="ListenL3D3MaoriPart1">HEI MAHI KŌRERO WHAKARONGO HOKI</string>
+    <string name="ListenL3D3MaoriPart2">Runga</string>
+    <string name="ListenL3D3MaoriPart3">Raro</string>
+    <string name="ListenL3D3MaoriPart4">Roto</string>
+    <string name="ListenL3D3MaoriPart5">Waho</string>
+    <string name="ListenL3D3MaoriPart6">Rewi</string>
+    <string name="ListenL3D3MaoriPart7">Renata</string>
+    <string name="ListenL3D3MaoriPart8">Rangi</string>
+    <string name="ListenL3D3MaoriPart9">Roimata</string>
+    <string name="ListenL3D3MaoriPart10">Rihari</string>
+    <string name="ListenL3D3MaoriPart11">Kara</string>
+
+
+    \\ day 4
+    <string name="ExplanationL3D4Part1">
+        During the session you will learn to ask where someone is and their location.  You will also learn to count, and ask the number of and location of objects.
+        For every <b>“Mahi Whakarongo, Korero Hoki” </b>section, listen to the dialogue and then practise using the sentences on your own.\n
+        <b>Kei hea a ___________?</b>\n
+        Where is __________?\n
+        E hia ngā ___________?\n
+        How many __________ are/is there?\n </string>
+    <string name="ExplanationL3D4Part2">
+        This session we will focus on two areas. Asking where somebody is, <b>kei hea </b>  a (Tama)...
+        The second area we will be looking at asking <b>e hia,</b> how many objects there are and also how to be able to answer that type of question.
+    </string>
+
+    <string name="ListenL3D4EngPart1">
+        <b>Kei hea a Tama?</b>   \t --\t Where is Tama?\n
+        <b>Kei hea a Materoa?</b>   \t --\tWhere is Materoa?\n
+        <b>Kei hea a Hēmi?</b>   \t --\t Where is Hëmi?\n
+        <b>Kei hea a Hohepa?</b>   \t --\t Where is Hohepa?\n
+        <b>Kei hea a Herita?</b>   \t --\t Where is Herita?\n
+        <b>Kei hea a Pare?</b>   \t --\t Where is Pare?\n
+    </string>
+
+    <string name="ListenL3D4EngPart2">
+        <b>Kei waho a Tama i te whare </b>   \t --\t Tama is outside of the house\n
+        <b>Kei roto a Materoa i te rūma moe </b>   \t --\tMateroa is in the bedroom\n
+        <b>Kei runga a Hēmi i te tuanui</b>   \t --\t Hēmi is on top of the roof\n
+        <b>Kei raro a Hohepa i te waka?</b>   \t --\t Hohepa is under the car\n
+        <b>Kei roto a Herita i te kīhini</b>   \t --\tHerita is in the kitchen\n
+        <b>Kei roto a Pare i te wharepaku</b>   \t --\t Pare is in the toilet\n
+    </string>
+
+    <string name="ListenL3D4EngPart3">
+        <b>Kei hea a Mohi? </b>   \t --\t Where is Mohi?\n
+        <b>Kei Taupō a Mohi </b>   \t --\t Mohi is in Taupo\n
+        <b>Kei hea a Pita?</b>   \t --\t Where is Pita?\n
+        <b>Kei Raukawa a Pita</b>   \t --\t Pita is in Raukawa\n
+        <b>Kei hea a Rāwiri?</b>   \t --\tWhere is Räwiri?\n
+        <b>Kei Tauranga a Rāwiri</b>   \t --\t Rāwiri is in Tauranga\n
+        <b>Kei hea a Ariki?? </b>   \t --\t Where is Ariki?\n
+        <b>Kei Poihākena a Ariki </b>   \t --\t Ariki is in Sydney\n
+        <b>Kei hea a Paea?</b>   \t --\t Where is Paea?\n
+        <b>Kei Ahitereiria a Paea</b>   \t --\t Paea is in Australia\n
+    </string>
+
+    <string name="ListenL3D4EngPart4">Asking how many of particular objects there are.\n\n
+        <b>E hia ngā āporo?</b> \t --\t How many apples are there?\n
+        <b>Tokohia ngā tāngata?</b> \t --\t How many people are there?\n
+        <b>E hia ngā pukapuka?</b> \t --\t How many books are there?\n
+    </string>
+
+    <string name="ListenL3D4EngPart5">
+        <b>
+            Tahi	=	1\n
+            Rua	=	2\n
+            Toru	= 	3\n
+            Whä	=	4\n
+            Rima	=	5\n
+            Ono	=	6\n
+            Whitu	=	7\n
+            Waru	=	8\n
+            Iwa	=	9	\n
+            Tekau	=	10\n
+            </b>
+    </string>
+
+    <string name="ListenL3D4EngPart6">
+         <b>
+            Tekau mā tahi		=	11\n
+            Tekau mā rua		=	12\n
+            Tekau mā toru		=	13\n
+            Tekau mā whā		=	14\n
+            Tekau mā rima		=	15\n
+            Tekau mā ono		=	16\n
+            Tekau mā whitu		=	17\n
+            Tekau mā waru		=	18\n
+            Tekau mā iwa		=	19\n
+            Rua tekau			=	20\n
+        </b>
+    </string>
+
+    <string name="ListenL3D4EngPart7">
+         <b>
+            Toru tekau		=	30\n
+            Whā tekau		=	40\n
+            Rima tekau		=	50\n
+            Ono tekau		=	60\n
+            Whitu tekau		=	70\n
+            Waru tekau		=	80\n
+            Iwa tekau		=	90\n
+            Kotahi rau		=	100\n
+            Kotahi mano		=	1000\n
+            Kotahi rau mano	= 	100,000\n
+            Kotahi miriona	= 	1,000,000\n\n
+        </b>
+       (The formula for writing 31-39, 41-49 etc. is similar to that for 11-19.
+       Eg. 33 is toru tekau ma toru, 46 is whä tekau ma ono and so on until 99).
+    </string>
+
+    <string name="ListenL3D4EngPart8">
+        <b>E hia ngā āporo?</b> \t\tHow many apples are there?\n
+        <b>E rima ngā āporo</b> \t\tThere are five apples\n\n
+        <b>Tokohia ngā tāngata</b> \t\tHow many people are there?\n
+        <b>Tekau mā ono ngā tāngata</b> \t\tThere are sixteen people\n\n
+        <b>E hia ngā pukapuka?</b> \t\tHow many books are there?\n
+        <b>Rua tekau mā toru ngā pukapuka</b> \t\tThere are 23 books\n\n
+        <b>E hia ngā tūru?</b> \t\tHow many chairs are there?\n
+        <b>Kotahi te tūru</b> \t\tThere is one chair\n\n
+        <b>E hia ngā tēpu?</b> \t\tHow many tables are there?\n
+        <b>E iwa ngā tēpu</b> \t\tThere are nine tables\n\n
+        <b>E hia ngā rūma?</b> \t\tHow many rooms are there?\n
+        <b>E whā ngā rūma</b> \t\tThere are four rooms\n\n
+    </string>
+
+    <string name="ListenL3D4EngPart9">
+        <b>E hia ngā āporo kei runga i te tēpu?</b> \t\tHow many apples are there on the table?\n
+        <b>E rima ngā āporo kei runga i te tēpu</b> \t\tThere are five apples on the table\n\n
+        <b>E hia ngā kapu kei roto i te kāpata?</b> \t\tHow many cups are there inside the cupboard?\n
+        <b>Rua tekau mā toru ngā kapu kei roto i te kāpata</b> \t\tThere are 23 cups in the cupboard\n\n
+        <b>E hia ngā pukapuka kei roto i te Whare Pukapuka?</b> \t\tHow many books are there in the Library?\n
+        <b>Rua rau ngā pukapuka kei roto i te Whare Pukapuka</b> \t\tThere are 200 books in the library\n\n
+        <b>E hia ngā tūru kei roto i te rüma?</b> \t\tHow many chairs are there in the room?\n
+        <b>Kotahi te tūru kei roto i te rūma</b> \t\tThere is one chair\n\n
+        <b>E hia ngā tēpu kei runga i te taraka?</b> \t\tHow many tables are there on the truck?\n
+        <b>E iwa ngā tēpu kei runga i te taraka</b> \t\tThere are nine tables on the truck\n\n
+    </string>
+
+    <string name="ListenL3D4MaoriPart1">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+    <string name="ListenL3D4MaoriPart2">ĒTAHI WHAKAUTU</string>
+    <string name="ListenL3D4MaoriPart3">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+
+
+    //day5//
+    <string name="ExplanationL3D5Part1">
+        During this session you will learn to ask what a particular thing or object is, using <b>‘He aha’</b> with definitive <b>tēnei, tēnā, tērā (singular) and ‘ēnei, ēnä, ērā’ (plural),</b> and to respond in kind.
+        For every <b>“Mahi Whakarongo, Kōrero Hoki”</b> section, listen to the dialogue and then practise using the sentences on your own.\n
+        <b>He aha?</b>\t\t\t\t\t\t\t \t\t\t\t\t What?\n
+        <b>He aha tēnei, tēnā, tērā?</b>\t\t\tWhat is this, that, that (over yonder)?\n
+        <b>He aha ënei, ënä, ërä?</b>\t\t\t\t\tWhat are these, those, those (over yonder)?\n
+        <b>Kei hea?</b>\t\t\t\t\t\t\t \t\t\t\t\t Where\n
+        <b>Roto</b>\t\t\t\t\t\t\t \t\t\t\t\t\t\t Inside\n
+        <b>Raro</b>\t\t\t\t\t\t\t \t\t\t\t\t\t\tUnderneath, below\n
+        <b>Waho</b>\t\t\t\t\t\t\t \t\t\t\t\t\tOutside \n
+        <b>Kei hea a..? (for people)</b>\t\t\t\tWhere is …………?\n
+        <b>E hia (for people)</b>\t\t\t\t\t\t\tHow many\n
+    </string>
+
+    <string name="ExplanationL3D5Part2">
+        This session is a review of what we have done during the week. It is an overview of what we have done for Week 2 of this Te Reo Mäori course. It is important that if you have had any problems with any of the work covered this week, that you go back over it and review it.
+    </string>
+
+    <string name="ListenL3D5EngPart1">
+        <b>He aha?</b>\t\t\t\t\t\t\t\t\tWhat?\n
+        <b>He āporo</b>\t\t\t\t\t\t\t\tAn apple\n
+        <b>He aha?</b>\t\t\t\t\t\t\t\t\tWhat?\n
+        <b>He pouaka</b>\t\t\t\t\t\t\tA box\n
+        <b>He aha tēnei?</b>\t\t\t\t\t\tWhat is this?\n
+        <b>He pouaka tēnä</b>\t\t\t\t\tThat is a box\n
+        <b>He aha tēnei?</b>\t\t\t\t\t\tWhat is this?\n
+        <b>He pene tēnä</b>\t\t\t\t\t\tThat is a pen\n
+        <b>He aha tēnā?</b>\t\t\t\t\t\tWhat is that?\n
+        <b>He pukapuka tēnei.</b>\t\t\tThis is a book\n
+        <b>He aha tēnā?</b>\t\t\t\t\t\tWhat is that?\n
+        <b>He tēpu tēnei</b>\t\t\t\t\t\tThis is a table\n
+        <b>He aha tērā?</b>\t\t\t\t\t\tWhat is that (over yonder)?\n
+        <b>He hōiho tērā</b>\t\t\t\t\t\tThat is a horse (over yonder)\n
+        <b>He aha tērā?</b>\t\t\t\t\t\tWhat is that? (over yonder)\n
+        <b>He poaka tērā</b>\t\t\t\t\t\tThat is a pig (over yonder)\n
+    </string>
+
+    <string name="ListenL3D5EngPart2">
+        <b>He aha ēnei?</b>\t\t\t\t\t\t\tWhat are these? (Near speaker)\n
+        <b>He āporo ēnä</b>\t\t\t\t\t\tThose are apples\n
+        <b>He aha ēnei?</b>\t\t\t\t\t\tWhat are these? (Near speaker)\n
+        <b>He pouaka ēnä</b>\t\t\t\t\tThose are boxes (Near speaker)\n
+        <b>He aha ēnā?</b>\t\t\t\t\t\t\tWhat are those? (Near listener)\n
+        <b>He pukapuka ēnei</b>\t\t\t\tThese are books\n
+        <b>He aha ēnā?</b>\t\t\t\t\t\t\t What are those? (Near listener)\n
+        <b>He tēpu ēnei</b>\t\t\t\t\t\tThese are tables\n
+        <b>He aha ērā?</b>\t\t\t\t\t\t\tWhat are those? (Over yonder)\n
+        <b>He aha ērā?</b>\t\t\t\t\t\t\tThose are horses)\n
+        <b>He aha ērā?</b>\t\t\t\t\t\t\tWhat are those? (Over yonder)\n
+        <b>He poaka ērā</b>\t\t\t\t\t\tThose are pigs\n
+    </string>
+
+    <string name="ListenL3D5EngPart3">
+        <b>Singular</b>\n
+        <b>He aha tēnei?</b>\t\t\t\t\t\tWhat is this?(Near speaker)\n
+        <b>Plural</b>\n
+        <b>He aha ēnei?</b>\t\t\t\t\t\tWhat are these? (near speaker)\n
+
+        <b>Singular</b>\n
+        <b>He āporo tēnei</b>\t\t\t\t\tThis is an apple (near speaker)\n
+        <b>Plural</b>\n
+        <b>He āporo ēnei </b>\t\t \t\t\tThese are apples (near speaker)\n
+
+        <b>Singular</b>\n
+        <b>He aha tēnā?</b>\t\t\t\t\t\tWhat is that?(Near listener)\n
+        <b>Plural</b>\n
+        <b>He aha ēnā?</b> \t\t\t\t\t\tWhat are those? (near listener)\n
+
+        <b>Singular</b>\n
+        <b>He hōiho tērā</b>\t\t\t\t\t\tThat is a horse (over yonder)\n
+        <b>Plural</b>\n
+        <b>He hōiho ērā</b>\t\t\t\t\t\tThose are horses (over yonder)\n
+    </string>
+
+    <string name="ListenL3D5EngPart4">
+        <b>Kei hea te pukapuka?</b>\t\t\t\t\t\tWhere is the book\n
+        <b>Kei hea te waka?</b>\t\t\t\t\t\t\t\t\tWhere is the car?\n
+    </string>
+
+    <string name="ListenL3D5EngPart5">
+        <b>Kei hea te āporo?</b>\t\t\t\t\tWhere is the apple?\n
+        <b>Kei runga te āporo</b>\t\t\t\tThe apple is on top\n
+        <b>Kei hea te pouaka?</b>\t\t\t\tWhere is the box?\n
+        <b>Kei raro te pouaka</b>\t\t\t\tThe box is underneath\n
+        <b>Kei hea te pene?</b>\t\t\t\t\tWhere is the pen?\n
+        <b>Kei roto te pene</b>\t\t\t\t\t\tThe pen is inside\n
+        <b>Kei hea te pepa?</b>\t\t\t\t\tWhere is the paper?\n
+        <b>Kei waho te pepa</b>\t\t\t\t\tThe paper is outside\n
+    </string>
+
+    <string name="ListenL3D5EngPart6">
+        <b>Kei hea te pouaka?</b>\t\t\t\t\t\t\t\tWhere is the box?\n
+        <b>Kei raro te pouaka i te tēpu</b>\t\t\t\tThe box is underneath the table\n
+        <b>Kei hea te pene?</b>\t\t\t\t\t\t\t\t\tWhere is the pen?\n
+        <b>Kei roto te pene i te pouaka</b>\t\t \t\tThe pen is inside the box\n
+        <b>Kei hea te manu?</b>\t\t\t\t\t\t\t\t\tWhere is the bird?\n
+        <b>Kei runga te manu i te tuanui</b>\t\t\tThe bird is on top of the roof\n
+        <b>Kei te hea te pene rākau?</b>\t\t\t\t\tWhere is the pencil?\n
+        <b>Kei raro te pene rākau i te tūru</b>\t\t The pencil is beneath the chair\n
+        <b>Kei hea te ripene?</b>\t\t\t\t\t\t\t\t\tWhere is the cassette tape?\n
+        <b>Kei waho te ripene i te irirangi</b>\t\tThe cassette tape is outside of the radio\n
+    </string>
+
+    <string name="ListenL3D5EngPart7">
+        <b>Kei hea a Materoa?</b>\t\t\t\t\t\t\t\t\t\tWhere is Materoa?\n
+        <b>Kei hea a Hēmi?</b>\t\t\t\t\t\t\t\t\t\t\t\tWhere is Hēmi?\n
+        <b>Kei roto a Materoa i te ruma moe</b>\t\tMateroa is in the bedroom\n
+        <b>Kei runga a Hēmi i te tuanui</b>\t\t\t\t\tHēmi is on top of the roof\n
+        <b>Kei hea a Rāwiri?</b>\t\t\t\t\t\t\t\t\t\t\t Where is Rāwiri?\n
+        <b>Kei Tauranga a Rāwiri</b>\t\t\t\t\t\t\t\t\tRāwiri is in Tauranga\n
+        <b>Kei hea a Ariki? </b>\t\t \t\t\t\t\t\t\t\t\t\tWhere is Ariki?\n
+        <b>Kei Poihakena a Ariki</b>\t\t\t\t \t\t\t\t\tAriki is in Sydney\n
+        <b>Tokohia ngā tāngata?</b>\t\t \t\t\t\t\t\tHow many people are there?\n
+        <b>E hia ngā pukapuka?</b>\t\t\t\t\t\t\t\t\tHow many books are there?\n
+        <b>Tokohia ngā tāngata</b>\t\t\t\t\t\t\t\tHow many people are there?\n
+        <b>Tekau mā ono ngā tāngata</b>\t\t \t\t\t\tThere are sixteen people\n
+        <b>E hia ngā pukapuka?</b>\t\t\t\t \t\t\t\tHow many books are there?\n
+        <b>Rua tekau mā toru ngā pukapuka</b>\t\t\t\tThere are 33 books\n
+        <b>E hia ngā pukapuka kei roto i te Whare Pukapuka?</b>\t\t\t\t How many books are there in the Library?\n
+        <b>Rua rau ngā pukapuka kei roto i te Whare Pukapuka</b>\t\t\t\t There are 200 books in the library\n
+        <b>E hia ngā tūru kei roto i te ruma?</b>\t\t \t\tHow many chairs are there in the room?\n
+        <b>Kotahi te tūru kei roto i te ruma</b>\t\t \t\tThere is one chair\n
+    </string>
+
+    <string name="ListenL3D5MaoriPart1">He aha tënei, tēnā, tērā.</string>
+    <string name="ListenL3D5MaoriPart2">He aha ēnei, ēnā, ērā.</string>
+    <string name="ListenL3D5MaoriPart3">Singular and Plural</string>
+    <string name="ListenL3D5MaoriPart4">Kei hea</string>
+    <string name="ListenL3D5MaoriPart5">Runga, raro, roto, waho</string>
+    <string name="ListenL3D5MaoriPart6">Kei ………. i te ……….</string>
+    <string name="ListenL3D5MaoriPart7">Kei hea a ……….</string>
+
+    //Level 4//
+    // Day1//
+    <string name="ExplanationL4D1Part1">
+        During this session you will learn to ask what the particular thing or object is using ‘ko te aha’ with the definitive tēnei
+        (this near speaker), tēnā (that near listener), and tērā (that over yonder).
+    </string>
+    <string name="ExplanationL4D1Part2">
+        This question is very similar to ‘He aha?’ however, ‘Ko te aha?’ asks in very specific terms, not general terms. He pukapuka simply says it is a book or some books. Ko te pukapuka tells us that it is the book and we are only talking about the one book.\n
+        To help clarify this concept a bit more, if I held up a pen and asked, <b>“He aha tēnei?” (What’s this?)</b>You could answer it’s a thing,
+        it’s a writing thing, it’s a blue thing, or it’s a long skinny thing that we use to write with – even though you know that it is called a pen.  But, if I asked you ko te aha?
+        When I hold up the pen and you know it is called a pen then you can only reply ko te pene - The thing/object is the pen. The use of ‘Ko’ tells us that a name will follow and in this case the name is that of the object – i.e. the pen
+        Yes, we know it is a thing, a blue thing, a writing thing, a long skinny thing that we use for writing, but we want to know exactly what it is. The thing is called a pen. We are speaking in very specific terms.
+        Ko te aha? The what?  Ko te pene The pen.
+    </string>
+
+
+    <string name="ListenL4D1EngPart1">
+        <b>Ko te aha? </b>\t\t\t\t\t\t\t\t\tThe what? \n
+        <b>Ko te rūri </b>\t\t\t\t\t\t\t\t\tThe ruler\n
+        <b>Ko te aha?   </b>\t\t\t\t\t\t\t\tThe what?  \n
+        <b>Ko te pene rākau  </b>\t\t\t\t\tThe pencil\n
+        <b>Ko te aha? </b>\t\t\t\t\t\t\t\tThe what? \n
+        <b>Ko te tūru	</b>\t\t\t\t\t\t\t\t\tThe chair\n
+        <b>Ko te aha? </b>\t\t\t\t\t\t\t\tThe what?\n
+        <b>Ko te tēpu </b>\t\t\t\t\t\t\t\tThe table\n
+        <b>Ko te aha? </b>\t\t\t\t\t\t\t\tThe what?\n
+        <b>Ko te kete </b>\t\t\t\t\t\t\t\tThe kit\n
+        <b>Ko te aha? </b>\t\t\t\t\t\t\t\tThe what? \n
+        <b>Ko te pukapuka </b>\t\t\t\t\t\tThe book\n
+    </string>
+
+    <string name="ListenL4D1EngPart2">
+        <b>Tēnei </b> = this (by the speaker)\n
+        <b>Tēnā </b> = that (by the listener)\n
+        <b>Tērā  </b> = that (over yonder).\n
+        <b>Ko te aha tēnei?</b>\t\t\t\t\t\t\t\t\tWhat is this? (By the speaker)\n
+        <b>Ko te aha tēnā?</b>\t\t\t\t\t\t\t\t\tWhat is that? (By the listener) \n
+        <b>Ko te aha tērā?</b>\t\t\t\t\t\t\t\t\tWhat is that? (Over yonder) \n
+    </string>
+
+    <string name="ListenL4D1EngPart3">
+        <b>Me āta whakarongo koe ki te kaikōrero, a, kātahi ka tukuruatia te kōrero.</b> Listen to the speaker and repeat afterwards. <b>A muri ake nei he wā poto mōu hei whakaharatau te kōrero.</b> There will be a short pause to allow you to practice the question and the answer.
+    </string>
+
+    <string name="ListenL4D1EngPart4">
+        <b>Ko te aha tēnei? </b>\t\t\t\t\t\t\t\t\tWhat is this? \n
+        <b>Ko te rūri tēnā </b>\t\t\t\t\t\t\t\t\tThat is the ruler\n
+        <b>Ko te aha tēnei?  </b>\t\t\t\t\t\t\t\tWhat is this? \n
+        <b>Ko te tūru tēnā  </b>\t\t\t\t\t\t\t\t\tThat is the chair\n
+        <b>Ko te aha tēnei? </b>\t\t\t\t\t\t\t\tWhat is this? \n
+        <b>Ko te pene rākau tēnā	</b>\t\t\t\t\tThat is the pencil\n
+    </string>
+
+    <string name="ListenL4D1EngPart5">
+        <b>Ko te aha tēnā? </b>\t\t\t\t\t\t\t\t\t\tWhat’s that? \n
+        <b>Ko te rūri tēnei </b>\t\t\t\t\t\t\t\t\t\tThis is the ruler\n
+        <b>Ko te aha tēnā?  </b>\t\t\t\t\t\t\t\t\t\tWhat’s that?\n
+        <b>Ko te tūru tēnei  </b>\t\t\t\t\t\t\t\t\t\tThis is the chair\n
+        <b>Ko te aha tēnā? </b>\t\t\t\t\t\t\t\t\t\tWhat’s that? \n
+        <b>Ko te pene rākau tēnei	</b>\t\t\t\t\t\tThis is the pencil\n
+    </string>
+
+    <string name="ListenL4D1EngPart6">
+        <b>Ko te aha tērā? </b>\t\t\t\t\t\t\t\t\t\tWhat’s that? \n
+        <b>Ko te rūri tērā</b>\t\t\t\t\t\t\t\t\t\t\tThis is the ruler\n
+        <b>Ko te aha tērā?  </b>\t\t\t\t\t\t\t\t\t\tWhat’s that? \n
+        <b>Ko te tūru tērā  </b>\t\t\t\t\t\t\t\t\t\tThat is the chair\n
+        <b>Ko te aha tērā? </b>\t\t\t\t\t\t\t\t\t\tWhat’s that? \n
+        <b>Ko te pene rākau tērā	</b>\t\t\t\t\t\t\tThat is the pencil\n
+    </string>
+
+    <string name="ListenL4D1EngPart7">
+         <b>Tēnā koe, e hoa</b>\t\t\t\t\t\t\t\t\tGreetings my friend  \n
+        <b>Kia ora Piripi</b>\t\t\t\t\t\t\t\t\t\tHi Piripi\n
+        <b>E Hine, ko te aha tēnā?  </b>\t\t\t\t\tHine, what’s that? (near Hine)  \n
+        <b>Ko te pene tēnei  </b>\t\t\t\t\t\t\t\tThis (near Hine) is the pen\n
+        <b>E Hine, ko te aha tēnei? </b>\t\t\t\tHine, what is this? (near Piripi) \n
+        <b>Ko te pukapuka tēnā	</b>\t\t\t\t\t\tThat (near Piripi) is the book\n
+        <b>E Hine, ko te aha tērā?  </b>\t\t\t\t\tWhat’s that? (over yonder)  \n
+        <b>Ko te tēpu tērā</b>\t\t\t\t\t\t\t\t\tThat (over yonder) is the table\n
+    </string>
+
+    <string name="ListenL4D1EngPart8">
+         <b>Mōrena Tama!</b>\t\t\t\t\t\t\t\t\t\tGood morning Tama! \n
+        <b>Kia ora Pare!</b>\t\t\t\t\t\t\t\t\t\tHi Pare\n
+        <b>E Tama, ko te aha tēnā? </b>\t\t\t\tTama, what is that?(near Tama)   \n
+        <b>Ko te matapihi tēnei </b>\t\t\t\t\t\tThis (near Tama) is the window\n
+        <b>E Tama, ko te aha tēnei? </b>\t\t\t\tTama, what is this? (near Pare)  \n
+        <b>Ko te whāriki tēnā	</b>\t\t\t\t\t\t\tThat (near Pare) is the mat\n
+        <b>E Hine, ko te aha tērā?  </b>\t\t\t\t\tHine, what is that? (over yonder)  \n
+        <b>Ko te pukapuka tērā</b>\t\t\t\t\t\t\tThat (over yonder) is the book\n
+    </string>
+
+    <string name="ListenL4D1MaoriPart1">HE KŌRERORERO</string>
+    <string name="ListenL4D1MaoriPart2">HE WHAKAMĀRAMA</string>
+    <string name="ListenL4D1MaoriPart3">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+    <string name="ListenL4D1MaoriPart4">Ko te aha tēnei? What is this? (By speaker)</string>
+    <string name="ListenL4D1MaoriPart5">Ko te aha tēnā? What’s that? (By listener)</string>
+    <string name="ListenL4D1MaoriPart6">Ko te aha tērā? What’s that? (Over yonder) </string>
+    <string name="ListenL4D1MaoriPart7">Ko Piripi raua ko Hine</string>
+    <string name="ListenL4D1MaoriPart8">Ko Pare raua ko Tama</string>
+
+
+    <string name="NewWordsL4D1EngPart1">
+        <b>Anei ētahi kupu hou me ngā whakamārama.  Here are some new words and their meanings.</b>\n\n
+        <b>Kūaha</b>  \t\t\t\t\t\t\t\t\t\t\tDoor\n
+        <b>Pene</b>\t\t\t\t\t\t\t\t\t\t\t Pen\n
+        <b>Matapihi</b>  \t\t\t\t\t\t\t\t\t Window\n
+        <b>Whāriki</b>\t\t\t\t\t\t\t\t\t \tMat\n
+        <b>Rūri</b>  \t\t\t\t\t\t\t\t\t\t\t\t Ruler\n
+        <b>Pukapuka</b>\t\t\t\t\t\t\t\t\t Book\n
+        <b>Papatuhituhi</b> \t\t\t\t\t\t\t Whiteboard\n
+        <b>Pene rākau</b>\t\t\t\t\t\t\t\t Pencil\n
+        <b>Tēpu</b>  \t\t\t\t\t\t\t\t\t\t\t Table/desk\n
+        <b>Tūru</b>\t\t\t\t\t\t\t\t\t\t\t\t Stool/chair\n
+    </string>
+
+
+    <string name="NewWordsL4D1MaoriPart1">NGĀ KUPU HOU</string>
+
+    //Day2//
+    <string name="ExplanationL4D2Part1">
+      By the end of this session you should be able to ask what the particular things or objects are
+        called and use the plural definitive ēnei (these near the speaker),
+        ēnā (those near the listener), and ērā (those over yonder).
+    </string>
+    <string name="ExplanationL4D2Part2">
+        Once again, this question is very similar to <b>‘He aha?’</b>  However, <b>‘Ko ngā aha?’</b>  asks
+specifically about two or more objects or things. <b>He pukapuka</b>  simply says it’s a book or some books. <b>Ko ngā pukapuka</b> specifies that we are talking about two or more books and exactly what they are called.
+
+The major difference in this session is the plural forms <b> ngā, ēnei, ēnā, and ērā.</b>
+
+For the plural definitive drop the ‘T’. The rules and sentence structure remain the same as in the previous explanation.
+
+<b>Ēnei </b>= these (by the speaker), <b>Ēnā =</b> those (by the listener), <b>Ērā = </b>those (over yonder).
+
+    </string>
+    <string name="ListenL4D2EngPart1">
+       <b>Ko ngā aha?</b>\t\t\t\t\t\t\t\t\t\t\t\tThat what?\n
+       <b>Ko ngā aha ēnei?</b>\t\t\t\t\t\t\t\t\tWhat are these? \n
+       <b>Ko ngā aha ēnā?</b>\t\t\t\t\t\t\t\t\tWhat are those? \n
+       <b>Ko ngā aha ērā?</b>\t\t\t\t\t\t\t\t\t\tWhat are those? \n
+   </string>
+    <string name="ListenL4D2EngPart2">
+      <b> Me āta whakarongo ki te kaikōrero, a, kātahi ka tukuruatia te kōrero.
+          A muri ake nei he wā poto mōu hei whakaharatau te kōrero.</b>  Listen to the speaker and repeat afterwards. There will be a short pause to allow you to practice the question and the answer.
+    </string>
+    <string name="ListenL4D2EngPart3">
+        <b>Ko ngā aha ēnei?</b>\t\t\t\t\t\t\t\t\t	What are these?\n
+        <b> Ko ngā matapihi ēnā	</b>\t\t\t\t\t\t\t   Those are the hands\n
+        <b>Ko ngā aha ēnei?</b>\t\t\t\t\t\t\t\t\t	What are these?	\n
+        <b>Ko ngā pene ēnā </b>\t\t\t\t\t\t\t\t\t	Those are the pens\n
+        <b>Ko ngā aha ēnei?</b>\t\t\t\t\t\t\t\t\t	What are these?	\n
+        <b>Ko ngā rūri ēnā	</b>\t\t\t\t\t\t\t\t\t\t  Those are the rulers\n
+    </string>
+    <string name="ListenL4D2EngPart4">
+        <b>Ko ngā aha ēnā?</b>\t\t\t\t\t\t\t\t\t\tWhat are those?\n
+        <b>Ko ngā papatuhituhi ēnei	</b>\t\t\t\t\tThese are the whiteboards\n
+        <b>Ko ngā aha ēnā?	</b>\t\t\t\t\t\t\t\t\tWhat are those?\n
+        <b>Ko ngā pene rākau ēnei </b>\t\t\t\t\tThese are the pencils\n
+        <b>Ko ngā aha ēnā?</b>\t\t\t\t\t\t\t\t\t	What are those?\n
+        <b>Ko ngā whakakoi ēnei	</b>\t\t\t\t\t\tThese are the sharpeners
+    </string>
+    <string name="ListenL4D2EngPart5">
+        <b>Ko ngā aha ērā? </b>\t\t\t\t\t\t\t\t\t\tWhat are those?\n
+        <b>Ko ngā tūru ērā</b>\t\t\t\t\t\t\t\t\t\tThose are the stools\n
+        <b>Ko ngā aha ērā? </b>\t\t\t\t\t\t\t\t\tWhat are those?\n
+        <b>Ko ngā tēpu ērā </b>\t\t\t\t\t\t\t\t\t\tThose are the desks\n
+        <b>Ko ngā aha ērā? </b>\t\t\t\t\t\t\t\t\tWhat are those?\n
+        <b>Ko ngā pukapuka ērā </b>\t\t\t\t\t\t\tThose are the books\n
+    </string>
+
+    <string name="ListenL4D2EngPart6">Me mahi takirua ēnei rārangi kōrero.  Practise the following sentences in pairs.
+    </string>
+
+    <string name="ListenL4D2EngPart7">
+        <b>Tēnā koe, e hoa! </b>\t\t\t\t\t\t\t\tGreetings my friend!\n
+        <b>Kia ora Piripi</b>\t\t\t\t\t\t\t\t\t\tHi Piripi\n
+        <b>E Hine, ko ngā aha ēnā? </b>\t\t\t\tHine, what are those?(near Hine) \n
+        <b>Ko ngā pene ēnei</b>\t\t\t\t\t\t\t\tThese (near Hine) are the pens\n
+        <b>E Hine, ko ngā aha ēnei?</b>\t\t\t\tHine, what are these? (near Piripi)\n
+        <b>Ko ngā tūru ēnā </b>\t\t\t\t\t\t\t\t\tThose (near Piripi) are the stools\n
+        <b>E Hine, ko ngā aha ērā? </b>\t\t\t\t\tWhat are those? (over yonder)\n
+        <b>Ko ngā pukapuka ērā </b>\t\t\t\t\t\tThose are the books\n
+
+    </string>
+    <string name="ListenL4D2EngPart8">
+        <b>Mōrena Tama!</b>\t\t\t\t\t\t\t\tGood morning Tama!\n
+        <b>Kia ora Pare</b>\t\t\t\t\t\t\t\t\tHi Pare\n
+        <b>E Tama, ko ngā aha ēnā? </b>\t\tTama, what are those? (near Tama) \n
+        <b>Ko ngā whakamau ēnei</b>\t\t\tThese are the staplers\n
+        <b>E Tama, ko ngā aha ēnei?</b>\t\tTama, what are these? (near Pare) \n
+        <b>Ko ngā ūkui ēnā  </b>\t\t\t\t\t\tThose are the erasers\n
+        <b>E Tama, ko ngā aha ērā? </b>\t\tHine, what are those? (over yonder) \n
+        <b>Ko ngā pene whīrā</b>\t\t\t\t\tThose are the felt pens\n
+
+    </string>
+
+    <string name="ListenL4D2MaoriPart1">HE KŌRERORERO</string>
+    <string name="ListenL4D2MaoriPart2">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+    <string name="ListenL4D2MaoriPart3">Ko te aha tēnei? What is this? (By speaker)</string>
+    <string name="ListenL4D2MaoriPart4">Ko te aha tēnā? What’s that? (By listener)</string>
+    <string name="ListenL4D2MaoriPart5">Ko te aha tērā? What’s that? (Over yonder) </string>
+    <string name="ListenL4D2MaoriPart6">Piripi Hine</string>
+    <string name="ListenL4D2MaoriPart7">Pare Tama</string>
+
+
+    <string name="NewWordsL4D2EngPart1">
+        <b>Anei ētahi kupu hou me ngā whakamārama.  Here are some new words and their meanings.</b>\n\n
+        <b>Whakamau</b>\t\t\t\t\t\t\t\t\t Stapler\n
+        <b>Rakuraku</b>\t\t\t\t\t\t\t\t\t	Guitar\n
+        <b>Rauemi toi</b>\t\t\t\t\t\t\t\t\t	Paints/crayons\n
+        <b>Pakitara</b>\t\t\t\t\t\t\t\t\t	Wall\n
+        <b>Rorohiko</b>\t\t\t\t\t\t\t\t\t	Computer\n
+        <b>Tuanui</b>\t\t\t\t\t\t\t\t\t	Ceiling\n
+        <b>Kokonga pānui</b>\t\t\t\t\t\t\t\t\tReading corner\n
+        <b>Ārai</b>\t\t\t\t\t\t\t\t\t	Curtain\n
+        <b>Rauemi</b>\t\t\t\t\t\t\t\t\tResources\n
+        <b>Pukapuka kupu</b>\t\t\t\t\t\t\t\t\tDictionary\n
+    </string>
+
+    <string name="NewWordsL4D2MaoriPart1">NGĀ KUPU HOU</string>
+
+
+    //Day 3//
+
+    <string name="ExplanationL4D3Part1">During this session, you will learn to say to whom something belongs to, using either of the ‘A’ and/or ‘O’ possessive categories.
+    </string>
+    <string name="ExplanationL4D3Part2">
+        In Māori you are literally saying it is the thing of someone although we usually say, “It is Tama’s”. ‘A’ and/or ‘O’ are the Māori equivalents to of. However, the obvious difference is that Māori have two words that are used for this purpose and the reason is because to Māori, all things are separated into these two basic categories;\n
+
+The ‘A’ category consists of small objects that can be carried or items that can be controlled by you.
+The ‘O’ category consists of clothes, parts/sections of something, parts of the body or things that you have no control over.\n
+
+These categories might seem confusing at first so if you forget the correct category use either until such time that they have become second nature.\n
+
+So now, when we answer the question,<b>‘Ko te aha?’</b>  we can extend the answer to say what it is and to whom it belongs.\n
+
+<b>Ko te aha?</b> What is it?\n
+<b>Ko te pene a Tama. </b>It is the pen of Tama or more commonly said it is Tama’s pen.\n
+By now you may have noticed that we are being more precise about exactly what the object or thing is, exactly which one by location, and identifying its owner.
+
+    </string>
+
+    <string name="ListenL4D3EngPart1">
+        <b>Ko te aha? </b>\t\t\t\t\t\t\t\t\tWhat is it?  \n
+        <b>Ko te tēpu o Tama </b>\t\t\t\t\t\t\t\tTama’s desk(The desk of Tama)\n
+        <b>Ko te aha? </b>\t\t\t\t\t\t\t\t\tWhat is it?  \n
+        <b>Ko te tūru o Tama </b>\t\t\t\t\t\t\tTama’s stool(The stool of Tama)\n
+         <b>Ko te aha? </b>\t\t\t\t\t\t\t\t\tWhat is it?  \n
+        <b>Ko te hāte o Tama	</b>\t\t\t\t\tTama’s shirt(The shirt of Tama)\n
+        <b>Ko te aha? </b>\t\t\t\t\t\t\t\t\tWhat is it?  \n
+        <b>Ko te koti o Tama </b>\t\t\t\t\t\t\tTama’s coat(The coat of Tama)\n
+         <b>Ko te aha? </b>\t\t\t\t\t\t\t\t\tWhat is it?  \n
+        <b>Ko te pōtae o Tama	</b>\t\t\t\t\tTama’s hat(The hat of Tama)\n
+    </string>
+
+    <string name="ListenL4D3EngPart2">
+        <b>Ko te aha tēnei?</b>\t\t\t\t\t\t\t\t\What’s this?  \n
+        <b>Ko te tēpu o Tama tēnā </b>\t\t\t\t\t\t\t\tThat’s Tama’s table\n
+        <b>Ko te aha tēnei? </b>\t\t\t\t\t\t\t\t\tWhat’s this? \n
+        <b>Ko te papatuhituhi o te kaiako tēnā </b>\t\t\t\t\t\t\tThat’s the teacher’s whiteboard\n
+    </string>
+
+    <string name="ListenL4D3EngPart3">
+        <b>Ko te aha tēnā?</b>\t\t\t\t\t\t\t\t\What’s that  \n
+        <b>Ko te tēpu o Pare tēnei </b>\t\t\t\t\t\t\t\tThis is Pare’s table\n
+        <b>Ko te aha tēnā? </b>\t\t\t\t\t\t\t\t\tWhat’s that \n
+        <b>Ko te papatuhituhi o te kaiako tēnei </b>\t\t\t\t\t\t\tThis is the teacher’s whiteboard\n
+    </string>
+
+    <string name="ListenL4D3EngPart4">
+        <b>Ko te aha tērā?</b>\t\t\t\t\t\t\t\t\What’s that  \n
+        <b>Ko te tēpu o Pare tērā</b>\t\t\t\t\t\t\t\tThat is Pare’s table\n
+        <b>Ko te aha tērā?</b>\t\t\t\t\t\t\t\t\tWhat’s that \n
+        <b>Ko te papatuhituhi o te kaiako tērā </b>\t\t\t\t\t\t\tThat is the teacher’s whiteboard\n
+    </string>
+
+    <string name="ListenL4D3EngPart5">
+        <b>Tēnā koe, e hoa</b>\t\t\t\t\t\t\t\t\Greetings my friend  \n
+        <b>Kia ora Piripi</b>\t\t\t\t\t\t\t\tHi Piripi\n
+        <b>E Hine, ko te aha tēnā</b>\t\t\t\t\t\t\t\t\tHine, what’s that? (Near Hine) \n
+        <b>Ko te pene a Hōri tēnei</b>\t\t\t\t\t\t\tThis (near Hine) is Hōri’s pen\n
+             <b>E Hine, ko te aha tēnei?</b>\t\t\t\t\t\t\t\t\Hine, what’s this?(Near Piripi)\n
+        <b>Ko te kete a Hōri tēnā </b>\t\t\t\t\t\t\t\tThat (near Piripi) is Hōri’s kit\n
+        <b>E Hine, ko te aha tērā? </b>\t\t\t\t\t\t\t\t\tWhat’s that? (Over yonder) \n
+        <b>Ko te pūtea a Hōri tērā</b>\t\t\t\t\t\t\tThat is Hōri’s wallet\n
+    </string>
+
+    <string name="ListenL4D3EngPart6">Me mahi takirua ēnei rārangi kōrero.  Practise the following sentences in pairs.
+    </string>
+
+    <string name="ListenL4D3EngPart7">
+        <b>Mōrena Tama!</b>\t\t\t\t\t\t\t\t\Good morning Tama! \n
+        <b>Kia ora Pare</b>\t\t\t\t\t\t\t\tHi Pare\n
+        <b>E Tama, ko te aha tēnā?</b>\t\t\t\t\t\t\t\t\tTama, what’s that? (Near Tama) \n
+        <b>Ko te rūri a Hōri tēnei</b>\t\t\t\t\t\t\tThis is Hōri’s ruler\n
+            <b>E Tama, ko te aha tēnei?</b>\t\t\t\t\t\t\t\t\Tama, what’s this?(Near Tama)\n
+        <b>Ko te pouaka- tango-whakaahua a Hōri tēnā </b>\t\t\t\t\t\t\t\tThat (near Tama) is Hōri’s camera\n
+        <b>E Tama, ko te aha tērā? </b>\t\t\t\t\t\t\t\t\tHine, what is that? (Over yonder) \n
+        <b>Ko te pukapuka a Hōri tērā</b>\t\t\t\t\t\t\tThat is Hōri’s book\n
+    </string>
+
+    <string name="ListenL4D3MaoriPart1">HE KŌRERORERO</string>
+    <string name="ListenL4D3MaoriPart2">Ko te aha tēnei? What is this? (By speaker)</string>
+    <string name="ListenL4D3MaoriPart3">Ko te aha tēnā? What’s that? (By listener)</string>
+    <string name="ListenL4D3MaoriPart4">Ko te aha tērā? What’s that? (Over yonder) </string>
+    <string name="ListenL4D3MaoriPart5">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+    <string name="ListenL4D3MaoriPart6">Piripi Hine</string>
+    <string name="ListenL4D3MaoriPart7">Pare Tama</string>
+
+    <string name="NewWordsL4D3EngPart1">
+        <b>Pukapuka mapi</b>  \t\t\t\t\t\t\t\t\t Atlas book\n
+        <b>Whakatatau </b>\t\t\t\t\t\t\t\t\t Calculator\n
+        <b>Pikitia</b>  \t\t\t\t\t\t\t\t\t Picture \n
+        <b>Taonga tākaro</b>\t\t\t\t\t\t\t\t\t Toys\n
+        <b>Whakakoi</b>  \t\t\t\t\t\t\t\t\t Sharpener\n
+        <b>Ūkui</b>\t\t\t\t\t\t\t\t\t Eraser\n
+        <b>Kōpaki</b>  \t\t\t\t\t\t\t\t\tFolder\n
+        <b>Ipu rāpihi</b>\t\t\t\t\t\t\t\t\t Rubbish tin\n
+        <b>Pene tīpako</b>  \t\t\t\t\t\t\t\t\t Highlighter\n
+        <b>Rauemi pāngarau</b>\t\t\t\t\t\t\t\t\tMaths resources\n
+    </string>
+
+    <string name="NewWordsL4D3MaoriPart1">NGĀ KUPU HOU</string>
+
+
+    //Day4//
+    <string name="ExplanationL4D4Part1">
+        By the end of this session you should be able to say to whom something belongs to using either of the ‘A’ and/or ‘O’ possessive categories.
+    </string>
+
+    <string name="ExplanationL4D4Part2">
+        By the end of this session you should be able to say to whom things belong using either of the ‘A’ and/or ‘O’ possessives. As with the singular, the rules for categorizing the plural are exactly the same. Be aware that there are other criteria for categorizing things but these below will suffice for now.
+        All things are separated into these two basic categories;
+        So now when we answer the question: <b>Ko ngā aha?</b>  We can extend the answer to say what they are, and also to whom they belong.\n
+        <b>KO NGĀ AHA?</b>\n
+        <b>Ko ngā pene a Tama.</b> Tama’s pens.  A Tama because pens are small and can be carried around by him.\n
+
+        <b>Ko ngā aha?</b>\t\t\t\t\t\t\t\t\tWhat are they?\n
+        <b>Ko ngā aha ēnei? </b>\t\t\t\t\t\t\t\t\tWhat are these?\n
+        <b>Ko ngā aha ēnā? </b>\t\t\t\t\t\t\t\t\tWhat are those? (Near listener)\n
+        <b>Ko ngā aha ērā? </b>\t\t\t\t\t\t\t\t\tWhat are those? (Over yonder)\n
+    </string>
+
+    <string name="ListenL4D4EngPart1">
+         <b>Ko ngā aha?</b>\t\t\t\t\t\t\t\t\tThe what?\n
+         <b>Ko ngā pikitia a  Tama</b>\t\t\t\t\t\t\t\t\tThey’re Tama’s pictures\n
+         <b>Ko ngā aha?</b>\t\t\t\t\t\t\t\t\tThe what?\n
+         <b>Ko ngā koopaki a  Tama</b>\t\t\t\t\t\t\t\t\tThey’re Tama’s folders\n
+         <b>Ko ngā aha?</b>\t\t\t\t\t\t\t\t\tThe what?\n
+         <b>Ko ngā rauemi paangarau a Tama</b>\t\t\t\t\t\t\t\t\tThey’re Tama’s maths resources\n
+         <b>Ko ngā aha?</b>\t\t\t\t\t\t\t\t\tThe what?\n
+         <b>Ko ngā taonga taakaro a Tama</b>\t\t\t\t\t\t\t\t\tThey’re Tama’s toys\n
+    </string>
+
+    <string name="ListenL4D4EngPart2">
+         <b>Ko ngā aha ēnei?</b>\tWhat are these?\n
+         <b>Ko ngā hū o Tama ēnā</b>\tThose are Tama’s shoes\n
+         <b>Ko ngā aha ēnei?</b>\tWhat are these?\n
+         <b>Ko ngā ūkui a Tama ēnā</b>\tThose are Tama’s erasers\n
+    </string>
+
+    <string name="ListenL4D4EngPart3">
+         <b>Ko ngā aha ēnā?</b>\tWhat are those?\n
+         <b>Ko ngā pukapuka mapi a Tama ēnei</b>\tThese are Tama’s atlases\n
+         <b>Ko ngā aha ēnā?</b>\tWhat are those?\n
+         <b>Ko ngā whakamau a Tama ēnei</b>\tThese are Tama’s staplers\n
+         <b>Ko ngā aha ēnā?</b>\tWhat are those?\n
+         <b>Ko ngā pene whiira a Tama ēnei</b>\tThese are Tama’s felts\n
+    </string>
+
+    <string name="ListenL4D4EngPart4">
+         <b>Ko ngā aha ērā?</b>\tWhat are those?\n
+         <b>Ko ngā pukapuka mapi a Tama ērā</b>\tThose are Tama’s maps\n
+         <b>Ko ngā aha ērā?</b>\tWhat are those?\n
+         <b>Ko ngā whakamau a Tama ērā</b>\tThose are Tama’s staplers\n
+         <b>Ko ngā aha ērā?</b>\tWhat are those?\n
+         <b>Ko ngā pene whiira a Tama ērā</b>\tThose are Tama’s felt pens\n
+    </string>
+
+    <string name="ListenL4D4EngPart5">
+         <b>Tēnā koe, e hoa</b>\tGreetings my friend\n
+         <b>Kia ora Piripi</b>\tHi Piripi\n
+         <b>E Hine, ko ngā aha ēnā?</b>\tHine, what are those? (Near Hine) \n
+         <b>Ko ngā pene a Tama ēnei</b>\tThese (near Hine) are Tama’s pens\n
+         <b>E Hine, ko ngā aha ēnei?</b>\tHine, what are these?(Near Piripi)\n
+         <b>Ko ngā taonga tākaro a Hōri ēnā</b>\tThose (near Piripi) are Hōri’s toys\n
+         <b>E Hine, ko ngā aha ērā? </b>t\tWhat are those? (Over yonder) \n
+         <b>Ko ngā pukapuka a Ani ērā</b>\tThose (over yonder) are Ani’s books\n
+    </string>
+
+    <string name="ListenL4D4EngPart6">Me mahi takirua ēnei rārangi kōrero.  Practise the following sentences in pairs.
+    </string>
+
+    <string name="ListenL4D4EngPart7">
+         <b>Mōrena Tama!</b>\tGood morning Tama!\n
+         <b>Kia ora Pare</b>\tHi Pare\n
+         <b>E Tama, ko ngā aha ēnā?</b>\tTama, what are those? (Near Tama)  \n
+         <b>Ko ngā rare a Timi ēnei</b>\tThese (Near Pare) are Tim’s lollies\n
+         <b>E Tama, ko ngā aha ēnei?</b>\tTama, what are these? (Near Tama) \n
+         <b>Ko ngā pene tīpako a Hera ēnā </b>\tThose (near Tama) are Hera’s highlighters \n
+         <b>E Hine, ko ngā aha ērā?</b>\tHine, what are those? (Over yonder) \n
+         <b>Ko ngā pene rākau a Heemi ērā</b>\tThose (over yonder) are Heemi’s pencils \n
+    </string>
+
+    <string name="ListenL4D4MaoriPart1">HE KŌRERORERO</string>
+    <string name="ListenL4D4MaoriPart2">Ko te aha tēnei? What is this? (By speaker)</string>
+    <string name="ListenL4D4MaoriPart3">Ko te aha tēnā? What’s that? (By listener)</string>
+    <string name="ListenL4D4MaoriPart4">Ko te aha tērā? What’s that? (Over yonder) </string>
+    <string name="ListenL4D4MaoriPart5">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+    <string name="ListenL4D4MaoriPart6">Piripi Hine</string>
+    <string name="ListenL4D4MaoriPart7">Pare Tama</string>
+
+    <string name="NewWordsL4D4EngPart1">
+         <b>Puoto</b>  \t\t\t\t\t\t\t\t\t Sink\n
+        <b>Pere</b>\t\t\t\t\t\t\t\t\t Bell\n
+        <b>Kōrere</b>  \t\t\t\t\t\t\t\t\t Tap\n
+        <b>Korowhio</b>\t\t\t\t\t\t\t\t\t Whistle\n
+        <b>Puru</b>  \t\t\t\t\t\t\t\t\t Plug\n
+        <b>Papa pānui</b>\t\t\t\t\t\t\t\t\t Notice board\n
+        <b>Tēpu mahi</b>  \t\t\t\t\t\t\t\t\t Bench\n
+        <b>Reo irirangi</b>\t\t\t\t\t\t\t\t\t Radio\n
+        <b>Matawā</b>  \t\t\t\t\t\t\t\t\t Clock\n
+        <b>Rīpene whakaata</b>\t\t\t\t\t\t\t\t\t Video\n
+    </string>
+
+    <string name="NewWordsL4D4MaoriPart1">NGĀ KUPU HOU</string>
+
+    // Day5//
+
+    <string name="ExplanationL4D5Part1">
+        By the end of this session you should be able to use everything we have covered so far this week and where possible include things we have covered from previous weeks.
+    </string>
+    <string name="ExplanationL4D5Part2">
+        <b>Ko te aha?</b> asks in very specific terms, not general terms.\n
+        <b>Ko te pukapuka </b>tells us that the thing is called a book and we are only talking about the one book.\n
+        <b>Ko te aha?</b> The what?  Ko te pene The pen.\n
+
+        <b>Ko ngā aha?</b> asks specifically about two or more objects or things.\n
+        <b>Ko ngā pukapuka</b>specifies that we are talking about two or more books and exactly what they are called.\n
+           The major difference from this session was the plural forms ngā, ēnei, ēnā, and ērā.\n
+
+         ‘A’ and/or ‘O’ are the English equivalents to of.  All things are separated
+        into these two basic categories;\n
+        The ‘A’ category consists of small objects that can be carried or items that can be controlled by you.\n
+        The ‘O’ category consists of clothes, parts/sections of something, parts of the body or things that you have no control over.\n
+        <b>Ko te aha?</b> The what?\n
+        <b>Ko te pene a Tama.</b> It is the pen of Tama or more commonly said It is Tama’s pen.\n
+        As with the singular, the rules for categorizing the plural are exactly the same.\nSo now when we answer the question <b>Ko ngā aha?</b>  We can extend the answer to say what they are, and also to whom they belong.\n
+        <b>Ko ngā aha?</b>\t\t\t\t\tThe what?\n
+        <b>Ko ngā aha ēnei? </b>\t	What are these?\n
+        <b>Ko ngā aha ēnā? </b>\t	What are those?\n
+        <b>Ko ngā aha ērā? </b>\t	What are those? (Over yonder)\n
+
+    </string>
+    <string name="ListenL4D5EngPart1">
+        <b>Me mahi takirua ēnei rārangi kōrero, mau nga pātai, a, ma to hoa ngā whakautu.Practise the following sentences in pairs, you ask the questions and your friend will answer.</b>\n\n
+        <b> Ko koe:</b> Tēnā koe e hoa.\n
+        <b>Tō hoa:</b> ……………….\n
+        <b>Ko koe:</b> Kei te pēhea koe?\n
+        <b>Tō hoa:</b> …………………..\n
+        <b>Ko koe:</b> Kei te pēhea tō whānau?\n
+        <b>Tō hoa:</b> …………………\n
+        <b>Ko koe: </b>He aha tō mahi i tēnei ra?\n
+        <b>Tō hoa:</b> ………………\n
+    </string>
+
+    <string name="ListenL4D5MaoriPart1">HEI MAHI WHAKARONGO, KŌRERO HOKI</string>
+
+
+    <!--These are string texts of four level buttons-->
+    <string name="level1_title">LEVEL 1</string>
+    <string name="level2_title">LEVEL 2</string>
+    <string name="level3_title">LEVEL 3</string>
+    <string name="level4_title">LEVEL 4</string>
+
+    <string name="dialog_congrats">Congratulations!</string>
+    <string name="dialog_congrats2">You have upgraded to great,\nkeep going.</string>
+    <string name="dialog_congrats3">Got it!</string>
+    <string name="dialog_notOpened">Ops!</string>
+    <string name="dialog_notOpened2">You need to achieve 80% mark of last level to access new level</string>
+
+
+    <string name="totalScoreForEveryDay"> %1$s /100</string>
+    <string name="scoreHash">----</string>
+    <string name="scoreShortHash">---</string>
+
+
+    <!--These are string texts of two top buttons-->
+
+    <!--These are string texts of four footer buttons-->
+    <string name="footer_game_btn">Game</string>
+    <string name="footer_voice_btn">Voice</string>
+    <string name="footer_score_btn">Score</string>
+    <string name="footer_help_btn">Help</string>
+
+    <string name="indexPage_title">Te Hiringa o te Reo</string>
+    <string name="indexPage_subtitle">He mana to te Reo</string>
+    <string name="indexPage_titleExtended">\"The prestigious language\"</string>
+    <string name="indexPage_slogan1">Increase \t\t\t\t\t\t\t\t your knowledge</string>
+    <string name="indexPage_slogan2">and \nunderstanding</string>
+    <string name="indexPage_slogan3">of Reo Māori</string>
+
+
+    <!--These are string texts of individual topic page-->
+    <string name="explanationTopicTitle">Explanation</string>
+    <string name="listenTopicTitle">Listen-Speak</string>
+    <string name="newWordsTopicTitle">New Words</string>
+    <string name="playGameTopicTitle">Play Game</string>
+    <string name="playGameTopicPageTitle">Translation between English and Māori</string>
+    <string name="nextSectionBtn_text">Next Section</string>
+
+
+    <!--These are string texts of scroe page-->
+    <string name="scorePage_userName">your name</string>
+    <string name="scorePage_userTotalScore">680</string>
+    <string name="scorePage_level1Title">level 1</string>
+    <string name="scorePage_level1Score">200</string>
+    <string name="scorePage_Day1Title">day 1</string>
+    <string name="scorePage_level1Day1Score">40</string>
+    <string name="scorePage_Day2Title">day 2</string>
+    <string name="scorePage_level1Day2Score">40</string>
+    <string name="scorePage_Day3Title">day 3</string>
+    <string name="scorePage_level1Day3Score">40</string>
+    <string name="scorePage_Day4Title">day 4</string>
+    <string name="scorePage_level1Day4Score">40</string>
+    <string name="scorePage_Day5Title">day 5</string>
+    <string name="scorePage_level1Day5Score">40</string>
+
+    <string name="scorePage_level2Title">level 2</string>
+    <string name="scorePage_level2Score">180</string>
+    <string name="scorePage_level2Day1Score">40</string>
+    <string name="scorePage_level2Day2Score">40</string>
+    <string name="scorePage_level2Day3Score">40</string>
+    <string name="scorePage_level2Day4Score">30</string>
+    <string name="scorePage_level2Day5Score">30</string>
+
+    <string name="scorePage_level3Title">level 3</string>
+    <string name="scorePage_level3Score">160</string>
+    <string name="scorePage_level3Day1Score">40</string>
+    <string name="scorePage_level3Day2Score">30</string>
+    <string name="scorePage_level3Day3Score">30</string>
+    <string name="scorePage_level3Day4Score">30</string>
+    <string name="scorePage_level3Day5Score">30</string>
+
+    <string name="scorePage_level4Title">level 4</string>
+    <string name="scorePage_level4Score">140</string>
+    <string name="scorePage_level4Day1Score">20</string>
+
+
+    <!--These are string texts of voice page-->
+    <string name="voicePage_openingKarakiaTitle">Opening Karakia</string>
+    <string name="voicePage_closingKarakiaTitle">Closing Karakia</string>
+    <string name="voicePage_waiataTitle">Waiata</string>
+    <string name="voicePage_prayer">prayer</string>
+    <string name="voicePage_song">song</string>
+    <string name="voicePlayerPage_openingPrayerTitle">Karakia Tīmatanga\nOpening Prayer</string>
+    <string name="voicePlayerPage_closingPrayerTitle">Karakia Whakamutunga\nClosing Prayer</string>
+    <string name="voicePlayerPage_songTitle">Waiata\nSong</string>
+    <string name="voicePlayerPage_nowords">No Words</string>
+
+
+    <!--These are string texts of play game page-->
+    <string name="playgamePage_title">Translate into English/Māori</string>
+    <string name="AnswerContainerTip">Drag answer here</string>
+    <string name="playgamePage_AnswerRight">Right</string>
+    <string name="playgamePage_AnswerWrong">Wrong</string>
+
+
+    <!--                             Codes under here is Color                                  -->
+    <!--These are color in whole application-->
+    <color name="foorbar_background_active">#53bb96</color>
+    <color name="white">#ffffff</color>
+    <color name="level1_title">#146c00</color>
+    <color name="level2_title">#2044aa</color>
+    <color name="level3_title">#5b0673</color>
+    <color name="level4_title">#b31900</color>
+
+    <color name="levels_title_locked">#868686</color>
+    <color name="main_background_color">#93da9f</color>
+    <color name="maori_word_color">#53bb96</color>
+    <color name="navigationBarColor">#289b72</color>
+
+    <color name="blankBackground">#e6e6e6</color>
+
+    <!--Color in listen page-->
+    <color name="listen_nextBtn_startColor">#ce36df</color>
+    <color name="listen_nextBtn_endColor">#e8a0e2</color>
+
+    <!--Color in newWord page-->
+    <color name="newwords_nextBtn_startColor">#ea5603</color>
+    <color name="newwords_nextBtn_endColor">#f5c68e</color>
+
+    <!--Color in Explanation page-->
+    <color name="explanation_nextBtn_startColor">#3fbce3</color>
+    <color name="explanation_nextBtn_endColor">#9ef0f4</color>
+
+    <!--Color in Score page-->
+    <color name="score_textcolor">#fedf47</color>
+
+
+    <color name="mediaPlayerPage_background">#65c2a1</color>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
+
+
+

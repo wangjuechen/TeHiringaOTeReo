@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background_color">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:src="@drawable/voicepage_background_leftpic1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="124dp"
+        android:src="@drawable/voicepage_background_rightpic1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/voice_maori_button_layout" />
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/layout_openingKarakia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="38dp"
+        android:background="@drawable/border_voicepage_box"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/layout_closingKarakia"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/iv_openingKarakiaPic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/voicepage_prayer_icon"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_openingKarakia_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/voicePage_openingKarakiaTitle"
+            android:textAllCaps="true"
+            android:textColor="@color/maori_word_color"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/iv_openingKarakiaPic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="4dp"
+            android:text="@string/voicePage_prayer"
+            android:textAllCaps="true"
+            android:textColor="@color/maori_word_color"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="@+id/tv_openingKarakia_title"
+            app:layout_constraintTop_toBottomOf="@+id/tv_openingKarakia_title" />
+
+        <company.com.tehiringaotereoTest.Utilities.EAImageButton
+            android:id="@+id/ibtn_openingkarakia_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:src="@drawable/voicepage_play_btn"
+            app:layout_constraintBottom_toBottomOf="@id/iv_openingKarakiaPic"
+            app:layout_constraintLeft_toLeftOf="@id/iv_openingKarakiaPic"
+            app:layout_constraintRight_toRightOf="@id/iv_openingKarakiaPic"
+            app:layout_constraintTop_toTopOf="@id/iv_openingKarakiaPic" />
+    </android.support.constraint.ConstraintLayout>
+
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/layout_closingKarakia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="38dp"
+        android:background="@drawable/border_voicepage_box"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/layout_openingKarakia"
+        app:layout_constraintRight_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/iv_closingKarakiaPic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/voicepage_prayer_icon"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_closingKarakia_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/voicePage_closingKarakiaTitle"
+            android:textAllCaps="true"
+            android:textColor="@color/maori_word_color"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/iv_closingKarakiaPic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="4dp"
+            android:text="@string/voicePage_prayer"
+            android:textAllCaps="true"
+            android:textColor="@color/maori_word_color"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="@+id/tv_closingKarakia_title"
+            app:layout_constraintTop_toBottomOf="@+id/tv_closingKarakia_title" />
+
+        <company.com.tehiringaotereoTest.Utilities.EAImageButton
+            android:id="@+id/ibtn_closingkarakia_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:src="@drawable/voicepage_play_btn"
+            app:layout_constraintBottom_toBottomOf="@id/iv_closingKarakiaPic"
+            app:layout_constraintLeft_toLeftOf="@id/iv_closingKarakiaPic"
+            app:layout_constraintRight_toRightOf="@id/iv_closingKarakiaPic"
+            app:layout_constraintTop_toTopOf="@id/iv_closingKarakiaPic" />
+    </android.support.constraint.ConstraintLayout>
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/border_voicepage_box"
+        app:layout_constraintEnd_toEndOf="@+id/layout_openingKarakia"
+        app:layout_constraintLeft_toLeftOf="@+id/layout_openingKarakia"
+        app:layout_constraintRight_toRightOf="@+id/layout_openingKarakia"
+        app:layout_constraintStart_toStartOf="@+id/layout_openingKarakia"
+        app:layout_constraintTop_toBottomOf="@+id/layout_openingKarakia">
+
+        <ImageView
+            android:id="@+id/iv_waiataPic"
+            android:layout_width="130dp"
+            android:layout_height="120dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/voicepage_song_icon"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="0dp" />
+
+        <TextView
+            android:id="@+id/tv_waiata_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/voicePage_waiataTitle"
+            android:textAllCaps="true"
+            android:textColor="@color/maori_word_color"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/iv_waiataPic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="4dp"
+            android:text="@string/voicePage_song"
+            android:textAllCaps="true"
+            android:textColor="@color/maori_word_color"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="@+id/tv_waiata_title"
+            app:layout_constraintTop_toBottomOf="@+id/tv_waiata_title" />
+
+        <company.com.tehiringaotereoTest.Utilities.EAImageButton
+            android:id="@+id/ibtn_waiata_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:src="@drawable/voicepage_play_btn"
+            app:layout_constraintBottom_toBottomOf="@id/iv_waiataPic"
+            app:layout_constraintLeft_toLeftOf="@id/iv_waiataPic"
+            app:layout_constraintRight_toRightOf="@id/iv_waiataPic"
+            app:layout_constraintTop_toTopOf="@id/iv_waiataPic" />
+    </android.support.constraint.ConstraintLayout>
+
+    <include
+        android:id="@+id/voice_maori_button_layout"
+        layout="@layout/layout_for_maori_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</android.support.constraint.ConstraintLayout>

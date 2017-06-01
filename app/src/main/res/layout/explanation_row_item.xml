@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/blankBackground"
+    android:gravity="center"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/tv_engtext"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/border_english_box"
+        android:minHeight="64dp"
+        android:paddingBottom="24dp"
+        android:paddingEnd="8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingStart="8dp"
+        android:paddingTop="8dp"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="0dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/border_maori_box"
+        android:padding="4dp"
+        app:layout_constraintBottom_toBottomOf="@+id/tv_engtext"
+        app:layout_constraintLeft_toLeftOf="@+id/tv_engtext"
+        app:layout_constraintRight_toRightOf="@+id/tv_engtext"
+        app:layout_constraintTop_toBottomOf="@+id/tv_engtext">
+
+        <TextView
+            android:id="@+id/tv_maoritext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/maori_word_color"
+            android:textSize="12sp"
+            android:layout_marginLeft="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintRight_toRightOf="parent"/>
+
+        <company.com.tehiringaotereoTest.Utilities.EAImageButton
+            android:id="@+id/btn_Play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="0dp"
+            android:background="@null"
+            android:src="@drawable/explannationpage_play_btn"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </android.support.constraint.ConstraintLayout>
+
+
+</android.support.constraint.ConstraintLayout>

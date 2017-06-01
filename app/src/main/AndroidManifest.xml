@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="company.com.tehiringaotereoTest">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="company.com.tehiringaotereoTest.Splash"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="company.com.tehiringaotereoTest.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"/>
+        <activity
+            android:name="company.com.tehiringaotereoTest.Topics_ForAllDays_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="company.com.tehiringaotereoTest.Topic_playGame"
+            android:label="Exercises"
+            android:screenOrientation="portrait" />
+        <activity android:name="company.com.tehiringaotereoTest.Help" />
+        <activity android:name="company.com.tehiringaotereoTest.Score" />
+        <activity android:name="company.com.tehiringaotereoTest.Voice" />
+        <activity android:name="company.com.tehiringaotereoTest.VoiceOpenPrayerPlayer" />
+        <activity android:name="company.com.tehiringaotereoTest.Topic_explanation"/>
+        <activity android:name="company.com.tehiringaotereoTest.Topic_listenSpeak"/>
+        <activity android:name="company.com.tehiringaotereoTest.Topic_newWords"/>
+        <activity android:name="company.com.tehiringaotereoTest.VoiceClosingPrayerPlayer" />
+        <activity android:name=".VoiceSongPlayer" />
+    </application>
+
+</manifest>

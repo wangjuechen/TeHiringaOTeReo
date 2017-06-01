@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="280dp"
+    android:layout_height="180dp"
+    android:background="@drawable/levelpage_background_pic">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tv_day_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/scorePage_Day1Title"
+            android:textAllCaps="true"
+            android:textColor="@color/level1_title"
+            app:layout_constraintLeft_toLeftOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_day_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:gravity="end"
+            android:text="@string/totalScoreForEveryDay"
+            android:textAlignment="textEnd"
+            android:textColor="@color/level1_title"
+            app:layout_constraintBottom_toBottomOf="@+id/tv_day_title"
+            app:layout_constraintLeft_toRightOf="@id/tv_day_title"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/tv_day_title"
+            tools:text="60/100" />
+
+    </android.support.constraint.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/iv_viewPage_day1Progress"
+        android:layout_width="230dp"
+        android:layout_height="94dp"
+        android:layout_marginBottom="26dp"
+        android:src="@drawable/levelpage_progress1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/levelpage_turtle_icon"
+        app:layout_constraintLeft_toLeftOf="@id/iv_viewPage_day1Progress"
+        app:layout_constraintRight_toRightOf="@id/iv_viewPage_day1Progress"
+        app:layout_constraintTop_toTopOf="@id/iv_viewPage_day1Progress" />
+
+</android.support.constraint.ConstraintLayout>

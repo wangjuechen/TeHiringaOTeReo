@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/ib_explanation"
+        android:layout_width="130dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/levelpage_explannation_btn"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintRight_toLeftOf="@+id/guideline2"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/ib_listen"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:background="@drawable/levelpage_listen_btn"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline3"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/ib_newWords"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/levelpage_newword_btn"
+        app:layout_constraintLeft_toLeftOf="@+id/ib_explanation"
+        app:layout_constraintRight_toRightOf="@+id/ib_explanation"
+        app:layout_constraintTop_toBottomOf="@+id/ib_explanation" />
+
+    <ImageButton
+        android:id="@+id/ib_PlayGame"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/levelpage_playgame_btn"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintLeft_toLeftOf="@+id/ib_listen"
+        app:layout_constraintRight_toRightOf="@+id/ib_listen"
+        app:layout_constraintTop_toBottomOf="@+id/ib_listen" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="162dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="162dp" />
+</android.support.constraint.ConstraintLayout>

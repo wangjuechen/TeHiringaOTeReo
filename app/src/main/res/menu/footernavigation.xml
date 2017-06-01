@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/game_btn"
+        android:title="@string/footer_game_btn"
+        android:icon="@drawable/game_icon_def"/>
+    <item
+        android:id="@+id/voice_btn"
+        android:title="@string/footer_voice_btn"
+        android:icon="@drawable/voice_icon_def"/>
+    <item
+        android:id="@+id/score_btn"
+        android:title="@string/footer_score_btn"
+        android:icon="@drawable/score_icon_def"/>
+    <item
+        android:id="@+id/help_btn"
+        android:title="@string/footer_help_btn"
+        android:icon="@drawable/help_icon_def"/>
+</menu>
